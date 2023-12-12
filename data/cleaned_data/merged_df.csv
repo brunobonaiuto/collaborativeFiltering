@@ -1,0 +1,1009 @@
+userId,wine,color,grapes,appellation,category,rate,aromaKeys,sweetness,body,intensity,acidity,depth,clarity,vintage,hue,tannins
+826c6abe-7147-4b69-aaea-275fe65b033a,Cavalcaonte Barbera Forlí,Red,Barbera,Emilia-Romagna,MediumRed,5,,Medium Sweet,Full Bodied,Aromatic,Crisp,Dark,Clear,2020.0,Purplish,Not Present
+d838a526-4b0a-4fad-b54f-90b6ca321fca,Shiraz,Red,Shiraz/Syrah,South Eastern Australia,BoldRed,2,"red-cherry, grape, tomato, tea, cream",Medium Sweet,Very Light,Low,Crisp,Pale,Clear,2021.0,Ruby,Soft
+d838a526-4b0a-4fad-b54f-90b6ca321fca,Pinot Noir,Red,Pinot Noir,Sonoma Coast,LightRed,3,"red-cherry, lime, saffron, cinnamon, vinegar, cream",Dry,Light,Moderate,Crisp,Medium,Clear,2021.0,Ruby,Round
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Timorasso,White,Timorasso,Colli Tortonesi,,5,"eucalyptus, thyme, flint, pepper, honey, dried-apricot, peach",Medium Sweet,Medium Full,Aromatic,Fresh,,Clear,2019.0,Gold,Not Present
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Le Difese,Red,"Cabernet Sauvignon, Sangiovese",Toscana,,4,"cherry, strawberry, blackberry, olive",Dry,Medium Full,Aromatic,Fresh,Medium,Slight Haze,2011.0,Purplish,Round
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Ormeasco di Pornassio,Red,Dolcetto,,MediumRed,5,"plum, cherry, black-cherry, pepper",Dry,Medium Full,Aromatic,Fresh,Medium,Slight Haze,2019.0,Ruby,Soft
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Vermentino Riviera ligure di Ponente,White,Vermentino,,LightWhite,4,apple,Dry,Light,Aromatic,Crisp,Pale,Clear,2019.0,Straw Yellow,
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Aspromonte,Rose,Shiraz/Syrah,,Sparkling,5,"anise, fennel",Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Cloudy,2020.0,Salmon,Soft
+bec96c0b-5b0b-4992-8756-e0d3b704afb5,Rossese,Red,Rossese,,LightRed,3,raspberry,Medium Sweet,Light,Moderate,Crisp,Dark,Clear,2019.0,Tawny,Soft
+e336887b-883b-4d9a-8cd3-060c25856bfb,Tenuta Sant'Helena Pinot Grigio,White,Pinot Grigio,Collio,LightWhite,3,"lime, melon, chamomile, green-tea",Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2020.0,Greenish,
+e336887b-883b-4d9a-8cd3-060c25856bfb,Chateau coufran,Red,"Merlot, Cabernet Sauvignon",Grand vin de Bordeaux - AOC HAUT-MÉDOC,MediumRed,3,"plum, sour-cherry, violet, black-pepper, liquorice, vanilla, tobacco",Bone Dry,Medium Full,Aromatic,Crisp,,Clear,2009.0,,Dry Tannins
+e336887b-883b-4d9a-8cd3-060c25856bfb,Le caillou - Le truffe noire,Red,Merlot,IGP Perigord,BoldRed,3,"red-cherry, black-cherry, black-plum, caramel, vanilla",Bone Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,,Purplish,Dry Tannins
+d1289631-2bf5-44ca-aa36-9340e2e733af,Matteo Braidot,White,,,,4,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,,Greenish,Round
+2ca37f5d-ecd7-4194-9688-90c5ee6d3792,"Ionos, Dry White",White,,,,4,"apple, lime",Dry,Light,Moderate,Smooth,Dark,Clear,2021.0,Greenish,
+2ca37f5d-ecd7-4194-9688-90c5ee6d3792,"Ionos, Roditis-SYrah",Rose,,,,3,red-cherry,Dry,Light,Moderate,Smooth,Medium,Clear,2021.0,Salmon,
+6ff6fb75-4fe9-453f-9c7d-c6ff63ada901,Morandina Valpolicella Ripasso Superiore,Red,"Corvina, Rondinella, Corvinone",Valpolicella Ripasso,MediumRed,5,peach,Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Slight Haze,,Ruby,Round
+6ff6fb75-4fe9-453f-9c7d-c6ff63ada901,Friulano Friuli Isonzo,White,Friulano,Friuli Isonzo,,3,hawthorn,Dry,Medium Full,Moderate,Crisp,Pale,Slight Haze,,Straw Yellow,Not Present
+06614f69-5a3a-455d-924b-6102e0958c6b,Vigna Kastelaz Gewürztraminer,White,Gewürztraminer,Südtirol - Alto Adige,SweetWhite,4,,,,,,,,,,
+91cf68cc-9436-43e1-871d-33beef4d2337,Alsace Josmeyer Gewurztraminer Biodynamic,White,Gewürztraminer,Biodynamic,,4,"honey, lychee, chamomile, pear, peach, ginger, mango",Dry,Light,Aromatic,Smooth,Dark,Clear,2016.0,Straw Yellow,Dry Tannins
+91cf68cc-9436-43e1-871d-33beef4d2337,Domaine des Cassiers Pouilly-Fumé,White,Sauvignon Blanc,Pouilly-Fumé,LightWhite,3,"peach, lychee, mango, honey, jasmine",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Gold,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Kellermeister Barossa Vineyards,Red,Shiraz/Syrah,,,2,"oak, blackberry, vanilla, chocolate",Dry,Medium Full,Moderate,Crisp,Dark,Slight Haze,2014.0,Garnet,Dry Tannins
+91cf68cc-9436-43e1-871d-33beef4d2337,Hermitage,Red,Shiraz/Syrah,Hermitage,BoldRed,2,"black-pepper, liquorice, blackberry, smoke, vanilla",Dry,,Moderate,Fresh,Medium,Clear,2017.0,Ruby,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Legitimo Carinena,Red,"Tempranillo, Carignan, Grenache",Carinena,BoldRed,2,"redcurrant, red-cherry, cranberry, red-plum",Dry,Medium Full,Moderate,Crisp,Dark,Slight Haze,2014.0,Garnet,Dry Tannins
+91cf68cc-9436-43e1-871d-33beef4d2337,St. Hallett Barossa,White,Riesling,,,2,"lemon, pear, honey, petroleum",Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Greenish,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Bubbly Pinot Grigio (Champagne),White,Pinot Grigio,California,Sparkling,2,"apple, lemon, lime, jasmine",Dry,Light,Low,Fresh,Pale,Clear,2016.0,Gold,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Chianti Rùfina Riserva,Red,"Sangiovese, Tempranillo, Malvasia, Colorino del Valdarno, Malvasia Nera, Cabernet Sauvignon, Merlot",Chianti Rùfina,,3,"meaty, red-cherry, liquorice, vanilla",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2016.0,Purplish,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Vistamar Cabernet Sauvignon Reserva,Red,Cabernet Sauvignon,,MediumRed,1,blackcurrant,Bone Dry,Medium Full,Moderate,Tart,Medium,Slight Haze,2017.0,Ruby,Hard
+91cf68cc-9436-43e1-871d-33beef4d2337,Sacred Hill Whitecliff Marlborough,White,Sauvignon Blanc,,,2,"guava, grass, honey, lime, ball-pepper, lemon",Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Greenish,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Sacred Hill Pinot Noir,Red,Pinot Noir,,,2,"wet-leaf, wet-stone, strawberry, red-cherry",Dry,Light,Low,Smooth,Medium,Clear,2018.0,Garnet,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Bella Cabernet Sauvignon,Red,Cabernet Sauvignon,,,2,"raspberry, cherry, cranberry, vanilla",Dry,Medium Full,Moderate,Fresh,Medium,Slight Haze,2017.0,Ruby,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Chateau De La Riviere Sauvignon Blanc,White,Sauvignon Blanc,,RichWhite,3,"honey, jasmine, guava, pear, lemon, red-plum",Dry,Full Bodied,Aromatic,Crisp,Pale,Clear,2019.0,Straw Yellow,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Pinot Grigio,White,Pinot Grigio,delle Venezie,LightWhite,2,"jasmine, pear, honey, lemon",Dry,Light,Moderate,Crisp,Pale,Clear,2018.0,Greenish,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Beppe Marino Barbera d'Asti Superiore DOCG,Red,,,,3,"cheese, liquorice, red-plum, preserved-fruits, vanilla, cinnamon, smoke",Dry,Medium Full,Moderate,Fresh,Dark,Clear,2012.0,Ruby,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Domaine Grand Veneur Blanc de Viogier,White,Viognier,,,3,"jasmine, honey, peach, pear, walnut, cream",Dry,Full Bodied,Moderate,Smooth,Medium,Clear,2018.0,Straw Yellow,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Chateau Dereszla Tokaji Aszu 5 Puttonyos,White,Furmint,,,5,"honey, chamomile, pear, peach, lychee, preserved-fruits",Very Sweet,Full Bodied,Aromatic,Smooth,Medium,Clear,2013.0,Gold,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Finca Bacara 3015 Jumilla,Red,Monastrell,,MediumRed,4,"red-plum, raspberry, blackcurrant, black-plum, pepper",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2018.0,Ruby,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Châteauneuf-du-Pape,Red,"Shiraz/Syrah, Grenache, Mourvedre, Cinsault",Châteauneuf-du-Pape,,3,"red-cherry, cinnamon, cheese, chocolate, tea, meaty",Dry,Full Bodied,Aromatic,Crisp,Dark,Slight Haze,2016.0,Ruby,Dry Tannins
+91cf68cc-9436-43e1-871d-33beef4d2337,Louis Michel & Fils Chablis Premier Cru,White,Chardonnay,Chablis Premier Cru,RichWhite,3,"pineapple, jasmine, honey, cream, butter",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Straw Yellow,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,E. Guigal Cotes du Rhone Blended,Red,,,,2,"strawberry, banana",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2016.0,Ruby,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Gran Malbec,Red,Malbec,Vista Flores,BoldRed,2,"blackberry, grass, chocolate, vanilla, cream",Dry,Medium Full,Moderate,Smooth,Dark,Slight Haze,2014.0,Purplish,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,Riesling,White,Riesling,Nahe,Dessert,3,"honey, pineapple, peach, lychee",Sweet,Light,Low,Smooth,Medium,Clear,,Gold,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Schloss Johannisberg Riesling Spatlese,White,Riesling,,,4,"pear, lemon, petroleum, jasmine, honey",Sweet,Medium Full,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Nuits-Saint-Georges 1er Cru Aux Bousselots,Red,Pinot Noir,Premier Cru,,3,"strawberry, rose, violet, vanilla, cinnamon, cigar, white-pepper, oak, ginger, meaty",Dry,Light,Aromatic,Smooth,Medium,Clear,2017.0,Ruby,Soft
+91cf68cc-9436-43e1-871d-33beef4d2337,Chardonnay,White,Chardonnay,Napa Valley,RichWhite,2,"vanilla, pineapple, cream, smoke",Dry,Light,Moderate,Smooth,Medium,Clear,2018.0,Straw Yellow,Round
+91cf68cc-9436-43e1-871d-33beef4d2337,AIX Rose Provence 2019 France Blended,Rose,"Cinsault, Shiraz/Syrah, Grenache",,Rosé,3,"honey, apple, banana, date",Dry,Light,Aromatic,Crisp,Medium,Clear,2019.0,Salmon,Soft
+37239e04-c632-4373-805f-25d85ee1c9f0,La Cerbaiola ,Red,Sangiovese,,,5,red-cherry,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Ruby,Round
+d229f371-d36c-4e52-8806-fdd41896c689,Chateauneuf-Du-Pape,Red,,,,4,,Medium Sweet,Medium Full,Aromatic,Fresh,,Slight Haze,,,Round
+23b6603a-928c-4e54-9c34-bdf3dcb45435,Bardolino,Red,,,,4,"blackcurrant, raspberry",Bone Dry,,Moderate,Crisp,Pale,Clear,2020.0,Ruby,Soft
+23b6603a-928c-4e54-9c34-bdf3dcb45435,Gewurztraminer,Red,,Gewurztraminer,SweetWhite,5,,Dry,Medium Full,,Crisp,Medium,Clear,2020.0,Greenish,Soft
+0a23a07a-8556-4ef6-85ee-d996f8ed619e,Talò Primitivo - Merlot,Red,"Primitivo, Merlot",,BoldRed,4,"tobacco, plum, black-pepper, chocolate, fig",Dry,Full Bodied,Powerful,Smooth,Dark,Slight Haze,2019.0,Ruby,Round
+a965be29-83c9-47b7-a5b3-82d99180cf98,Brut Rosé,Rose,"Pinot Noir, Gamay, Chenin Blanc",California,Sparkling,4,,Medium Sweet,Full Bodied,Moderate,Fresh,Pale,Clear,,Salmon,Round
+0cfb0f1f-1b20-48b4-bd0a-309609f865eb,Neuburger 2019,White,,,LightWhite,4,,Dry,,Moderate,Smooth,Medium,Clear,2019.0,Straw Yellow,
+877019f9-3c77-491d-912e-58b2404aed47,Chianti,Red,Sangiovese,Chianti,MediumRed,1,,Dry,Very Light,Low,Flabby,Pale,Clear,,Purplish,Soft
+877019f9-3c77-491d-912e-58b2404aed47,Chianti,Red,Sangiovese,Chianti,MediumRed,2,,,,,,,,,,
+976ec198-048f-405c-b6e6-b17ee1db1139,Ripassa Valpolicella Ripasso Superiore,Red,"Corvina Veronese, Merlot, Corvina, Rondinella, Molinara, Corvinone, Oseleta",Valpolicella Ripasso,,4,"cherry, plum, redcurrant, cranberry",Bone Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2018.0,Ruby,Dry Tannins
+976ec198-048f-405c-b6e6-b17ee1db1139,Nebbiolo d alba superiore,Red,Nebbiolo,Nebbiolo d'Alba ,MediumRed,4,"cherry, plum, liquorice, toast, smoke, vanilla",Bone Dry,Medium Full,Aromatic,Fresh,Medium,Clear,,Ruby,Dry Tannins
+dd7e04c1-987c-4520-9ab5-c90e86b7dfe1,Les Folastries Gewürztraminer,White,Gewürztraminer,Alsace,SweetWhite,4,,Medium Sweet,Full Bodied,Aromatic,Fresh,,Clear,2016.0,,Not Present
+23e67c7f-2388-4d25-b2a0-e5c119f3ba89,Rose,Rose,,,,4,Праскова,Dry,Full Bodied,Moderate,Tart,Medium,Clear,2020.0,Pink,Dry Tannins
+f96944e4-6672-4ff4-beed-96d17801d495,Morellino di Scansano DOCG terre di talamo,Red,,,,4,,Bone Dry,Full Bodied,Aromatic,Crisp,Dark,Clear,2011.0,Ruby,Round
+ce15f400-8bb8-4f99-9a8f-d8f4408641fe,Grillo,White,Grillo,Terre Siciliane,,4,lemon,Medium Sweet,,Aromatic,Fresh,Medium,Slight Haze,,Straw Yellow,Round
+ce15f400-8bb8-4f99-9a8f-d8f4408641fe,Tenuta Guado al Tasso Il Bruciato Bolgheri,Red,"Cabernet Sauvignon, Merlot, Sangiovese, Shiraz/Syrah",Bolgheri,,4,"cherry, raspberry",Sweet,,Aromatic,Fresh,Medium,Slight Haze,,Ruby,Dry Tannins
+3da6eec4-bd99-4370-be23-676baf750f19,Rascal,Red,,,,5,,,Light,Moderate,,Medium,Clear,2019.0,Purplish,
+3da6eec4-bd99-4370-be23-676baf750f19,Napa Valley Fumé Blanc,White,,,,4,,Dry,,,Crisp,,Clear,2018.0,,
+3da6eec4-bd99-4370-be23-676baf750f19,Monterey Pinot Noir,Rose,,,,2,,,,,,,,2018.0,,
+5bce85c2-b3c7-401f-b77b-992df3544479,Corte del lupo,Red,,,,4,,,Full Bodied,Aromatic,,Medium,Slight Haze,,Purplish,
+5bce85c2-b3c7-401f-b77b-992df3544479,Bolgheri stupore,Red,,,MediumRed,3,,,Medium Full,Moderate,,Dark,Clear,,Ruby,
+5bce85c2-b3c7-401f-b77b-992df3544479,Pinot noir San Mischael eppan,Red,,,,3,,Bone Dry,Medium Full,Moderate,Crisp,Dark,Clear,,Ruby,
+2b88ef27-7d56-4414-9c00-b23851f336d2,refosco Bole,Red,,,,4,,Medium Sweet,Medium Full,,Crisp,Medium,Slight Haze,2017.0,Purplish,Round
+29d44213-2153-405c-9874-87257a3a952f,8 Years in The Desert,Red,Zinfandel,,BoldRed,5,"persimmon, black-pepper, white-pepper, raspberry, fig, cloves",Dry,Medium Full,Aromatic,Fresh,Dark,Slight Haze,2018.0,Purplish,Round
+eadb1fb9-7260-4618-aa5a-8f2ebdca2077,Quid Pro Quo - tinto red blend,Red,,,,4,"strawberry, red-plum, cranberry, green-pepper, dried-apple",Dry,Full Bodied,Moderate,Fresh,Medium,Clear,,Purplish,Round
+eadb1fb9-7260-4618-aa5a-8f2ebdca2077,Paulucci Malbec (Angel Paulucci Vineyard),Red,Malbec,Mendoza,BoldRed,4,"tobacco, caramel",Dry,Full Bodied,Powerful,Smooth,Dark,Clear,,Purplish,Soft
+eadb1fb9-7260-4618-aa5a-8f2ebdca2077,Bread & Butter Pinor Noir 2020,Red,Pinot Noir,,LightRed,1,"pineapple, lychee, pear, honeysuckle, hibiscus, rubber, coconut",Sweet,Light,Low,Crisp,Medium,Clear,,Garnet,Soft
+ccdd1b9a-2056-4d76-b922-f427b7932ba7,Casa Rossa Rosso,Red,Nebbiolo,Piemonte,BoldRed,4,,Dry,Full Bodied,,Crisp,,Slight Haze,,,Dry Tannins
+018ad2f2-d320-46c2-8eff-56af0c2ac2b8,Cinque Terre Sciacchetrà Riserva,Red,,Cinque Terre,,5,,Sweet,,,,,,,,
+018ad2f2-d320-46c2-8eff-56af0c2ac2b8,Merlot,Red,Merlot,Valle de Parras,MediumRed,5,,,Medium Full,Aromatic,,,Slight Haze,,,Round
+018ad2f2-d320-46c2-8eff-56af0c2ac2b8,Muller Thurgau Trentino,White,Müller-Thurgau,Trentino,,5,,,,Moderate,Fresh,,Cloudy,,,
+595d2e23-9c80-4c9b-aae0-2a6cb4eeae2b,nebbiolo,Red,Nebbiolo,Valtellina Rosso o Rosso di Valtellina,BoldRed,3,"red-plum, fig",Dry,Light,Moderate,Crisp,Pale,Clear,2020.0,Ruby,Round
+3b1f7bc8-6a23-47e5-97df-043bd1b97f12,White cava,White,Sauvignon Blanc,Bourgogne,,2,"grape, cranberry",Medium Sweet,Light,Aromatic,Fresh,,Slight Haze,,,Round
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brachetto Piemonte,White,Brachetto,Piemonte,,4,"Apple, Grapefruit",Sweet,Light,Moderate,Fresh,Medium,Clear,2017.0,Ruby,Soft
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brachetto Piemonte,White,Brachetto,Piemonte,,4,,Medium Sweet,Medium Full,Moderate,Smooth,Medium,Cloudy,2017.0,Straw Yellow,Round
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brachetto Piemonte,White,Brachetto,Piemonte,,3,,Dry,Full Bodied,Moderate,Smooth,,,2017.0,Amber,Round
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Sauvignon,White,Sauvignon Blanc,Friuli Colli Orientali,,4,,Dry,Light,Aromatic,Fresh,Medium,Clear,2017.0,Greenish,Not Present
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Friulano,White,,Collio,,4,,Dry,Light,Aromatic,Crisp,Medium,Slight Haze,2017.0,Straw Yellow,
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Ribolla Cormons,White,Ribolla Gialla,Collio,,4,"lemon, banana, Fiori Semplici",Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Greenish,Not Present
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Ale Pinot Nero Alto Adige,Red,Pinot Nero,Südtirol - Alto Adige,LightRed,4,"lemon, pineapple",Sweet,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,,Garnet,Dry Tannins
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Pinot Grigio,White,Pinot Grigio,Colli Orientali del Friuli,LightWhite,4,"vanilla, banana",Dry,Light,Powerful,Fresh,Dark,Clear,,Gold,Dry
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Pinot Grigio,White,Pinot Grigio,Colli Orientali del Friuli,LightWhite,3,"banana, vanilla",Dry,Medium Full,Powerful,Fresh,Medium,Clear,,Gold,Not Present
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Pinot Grigio,White,Pinot Grigio,Colli Orientali del Friuli,LightWhite,4,vanilla,Medium Sweet,Medium Full,Aromatic,Crisp,Dark,Cloudy,,Brownish,Not Present
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Pinot Grigio,White,Pinot Grigio,Colli Orientali del Friuli,LightWhite,4,vanilla,Dry,Medium Full,Powerful,Fresh,Pale,Clear,,Gold,Not Present
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Merlot,Red,Merlot,Isonzo del Friuli,,3,,Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,2016.0,Ruby,Dry Tannins
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Refosco dal peduncolo rosso,Red,Refosco,Venezia Giulia,,4,apple,Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Slight Haze,2016.0,Ruby,Dry Tannins
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brunello di Montalcino Riserva Vigna Paganelli,Red,Sangiovese,Brunello di Montalcino,MediumRed,4,,Dry,Full Bodied,Moderate,Fresh,,Cloudy,,,Dry Tannins
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brunello di Montalcino Riserva Vigna Paganelli,Red,Sangiovese,Brunello di Montalcino,MediumRed,4,,Bone Dry,Full Bodied,Aromatic,Smooth,Medium,Slight Haze,,Purplish,Dry Tannins
+76b71bb0-6cc9-4168-8a45-bbafc1e9a256,Brunello di Montalcino Riserva Vigna Paganelli,Red,Sangiovese,Brunello di Montalcino,MediumRed,4,,Bone Dry,Full Bodied,Aromatic,Smooth,Medium,Slight Haze,,Purplish,Dry Tannins
+1b4a91f7-a311-4db0-a5b1-867736c951fe,I muri primitivo,Red,,,,3,,,,Aromatic,,Medium,Cloudy,2021.0,Garnet,
+1b4a91f7-a311-4db0-a5b1-867736c951fe,Red (Winemaker's Blend),Red,"Shiraz/Syrah, Cabernet Sauvignon, Merlot, Zinfandel",California,,3,"cedar, raspberry, red-plum",Dry,Full Bodied,Powerful,Flabby,Medium,Cloudy,,Purplish,Hard
+c88644be-2c9b-42f0-9c4b-7f8e81795f43,Terrano,Red,Terrano,Carso,MediumRed,1,"redcurrant, grapefruit, smoke",,Light,Aromatic,Smooth,Medium,Slight Haze,,Ruby,Soft
+c88644be-2c9b-42f0-9c4b-7f8e81795f43,Bollicina,White,,Carso,Sparkling,2,lime,Dry,Light,Moderate,Smooth,Pale,Clear,,Straw Yellow,
+c88644be-2c9b-42f0-9c4b-7f8e81795f43,Chardonnay,White,,,,4,"peach, jasmine",Medium Sweet,,Aromatic,Fresh,Medium,Clear,2017.0,Gold,
+c88644be-2c9b-42f0-9c4b-7f8e81795f43,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,3,nectarine,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Slight Haze,,Straw Yellow,
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Terrano,Red,Terrano,Carso,MediumRed,3,,Bone Dry,Medium Full,Moderate,Tart,Medium,Cloudy,2018.0,Ruby,Soft
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,3,,Medium Sweet,Light,Moderate,Crisp,Pale,Clear,2019.0,Straw Yellow,Not Present
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Pinotage,Red,Pinotage,Western Cape,BoldRed,3,,,,,,Medium,,,Ruby,
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Torchio,White,,,,4,forest-floor,Medium Sweet,Full Bodied,Aromatic,Smooth,Medium,Cloudy,2012.0,Gold,Dry Tannins
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Torchio,White,,,,3,,,Full Bodied,Powerful,Smooth,,Slight Haze,2012.0,,
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Malvasia legno,White,Malvasia,Carso,SweetWhite,3,tobacco,Dry,Light,Moderate,Fresh,Pale,Clear,2018.0,Straw Yellow,Soft
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Vernaccia,White,Vernaccia,Sardegna,,4,"red-cherry, orange-peel",,,Aromatic,,Pale,Cloudy,,Straw Yellow,Dry Tannins
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Sauvignon,White,Sauvignon Blanc,Collio,LightWhite,4,"green-ball-pepper, cat-pee",Dry,Very Light,Aromatic,Fresh,Pale,Clear,,Straw Yellow,Not Present
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Malvasia,White,Malvasia,Carso,SweetWhite,5,"lemon-peel, hawthorn",Medium Sweet,Very Light,Moderate,Crisp,Pale,Slight Haze,,Gold,Not Present
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Bollicina,White,,Carso,Sparkling,4,,Dry,Light,Low,Fresh,Pale,Clear,2020.0,Straw Yellow,Not Present
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,Bollicina,White,,Carso,Sparkling,4,,Dry,Very Light,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+4eb7031c-da00-48f4-bc7f-0a1f1eda7cab,KK Brut Rosé,Rose,Pinot Noir,Carso,Sparkling,4,pineapple,Medium Sweet,Medium Full,Aromatic,Smooth,Dark,Slight Haze,,Pink,Dry Tannins
+defee34b-7775-4889-b703-92b730d85e70,meeker,Red,,,,5,"cherry, blueberry",Dry,Medium Full,Aromatic,Crisp,Medium,Slight Haze,2018.0,Ruby,Round
+defee34b-7775-4889-b703-92b730d85e70,Zamò Bianco,White,"Riesling, Sauvignon Blanc, Ribolla Gialla, Pinot Grigio, Tocai Friulano",Friuli-Venezia Giulia,,5,,,,Aromatic,,,Clear,,Gold,
+defee34b-7775-4889-b703-92b730d85e70,Vitovska Collection,White,Vitovska,Carso,SweetWhite,4,apricot,Dry,Medium Full,Aromatic,Smooth,Medium,Slight Haze,,Gold,Soft
+defee34b-7775-4889-b703-92b730d85e70,Malvasia,White,Malvasia,Carso,SweetWhite,4,"gooseberry, lemon-peel",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,,Gold,Round
+defee34b-7775-4889-b703-92b730d85e70,Sylvaner,White,Sylvaner,Südtirol - Alto Adige,,4,"gooseberry, grapefruit, violet",Dry,Medium Full,Aromatic,Crisp,,Clear,,Gold,Not Present
+defee34b-7775-4889-b703-92b730d85e70,Ribolla,White,,,,3,"cherry, apricot",Medium Sweet,,Moderate,Fresh,Pale,Clear,,Straw Yellow,Soft
+defee34b-7775-4889-b703-92b730d85e70,I Saltari Valpolicella Superiore,Red,"Corvina, Rondinella, Croatina, Corvinone",Valpolicella,,5,,Bone Dry,,Powerful,Crisp,Medium,Slight Haze,,Purplish,Dry Tannins
+defee34b-7775-4889-b703-92b730d85e70,Terrarosa,Rose,,,,4,"strawberry, redcurrant",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2020.0,Salmon,Soft
+defee34b-7775-4889-b703-92b730d85e70,Alturis,White,Chardonnay,,,4,gooseberry,Dry,Medium Full,Moderate,Fresh,Pale,Clear,2021.0,Straw Yellow,Not Present
+defee34b-7775-4889-b703-92b730d85e70,Sauvignon,White,Sauvignon Blanc,Collio,LightWhite,5,"pineapple, passion-fruit, jasmine",Dry,Medium Full,Aromatic,Fresh,Pale,Clear,,Straw Yellow,Soft
+4e9cb62e-a165-484b-ad78-cb215523cdd5,Le sol,Red,,,,5,"strawberry, redcurrant, red-plum, boysenberry, peach, bubblegum",Medium Sweet,Medium Full,Powerful,Smooth,Medium,Slight Haze,2018.0,Garnet,Round
+87609866-dc17-4eb7-884f-b6bdfb80d20c,Rosso di Montepulciano,Red,Montepulciano,Rosso di Montepulciano,MediumRed,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Slight Haze,2018.0,Ruby,Round
+87609866-dc17-4eb7-884f-b6bdfb80d20c,Rèmole Rosso,Red,"Cabernet Sauvignon, Sangiovese",Toscana,,4,,Dry,Medium Full,Moderate,Crisp,Medium,Slight Haze,2019.0,Purplish,Round
+a38e30da-501b-4674-b598-cf9510a2df4c,Moscata D'Asti Casaniere,White,Moscato,Moscato d'Asti,SweetWhite,5,,Medium Sweet,,Aromatic,,Medium,,,Gold,
+7b8580a6-ec74-44fa-96fe-028257bd61d2,Grillo Sicilia,White,Grillo,Terre Siciliane,,3,quince,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Slight Haze,,Straw Yellow,Round
+a94874d2-6af9-4651-a1d3-036ed714f2cb,Pelaverga,Red,,,,3,"cherry, cranberry",Bone Dry,Medium Full,Moderate,Crisp,,Clear,2021.0,Ruby,Soft
+a94874d2-6af9-4651-a1d3-036ed714f2cb,pelaverga,Red,Pelaverga piccolo,,,2,"cranberry, cherry",Bone Dry,Light,Moderate,Fresh,,Clear,2022.0,Ruby,Soft
+d77c4371-fa10-492d-ba28-d0029997d639,Merlot,Red,Merlot,Venezia Giulia,,4,,Medium Sweet,Medium Full,Aromatic,,Medium,Slight Haze,2019.0,Purplish,Dry Tannins
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Reserva riesling estevez 2019,White,,,,5,,Dry,Light,,Crisp,,,2019.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Mcguigan black label sauvignon blanc,White,,,,5,,,Light,,Crisp,,,,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Reserva Rioja,Red,Tempranillo,Rioja,BoldRed,5,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Soft & Fruity Red,Red,"Cabernet Sauvignon, Zinfandel, Barbera, Ruby Cabernet",California,,3,"blackberry, blackcurrant, black-cherry",Medium Sweet,Medium Full,,Smooth,,,,,Soft
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Casillero del diabolo merlot Chile ,Red,,,,5,"plum, blackberry, cedar",Medium Sweet,Medium Full,,Smooth,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Organic pinot grigio terre siciliane igt,White,,,,5,"apple, pear, acacia, honey",Dry,Light,Aromatic,Fresh,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Grande reserve,White,,,RichWhite,5,,,Medium Full,,Smooth,,,2020.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Cambalala Western cape,White,,,RichWhite,4,"pear, lime, honey",Dry,Light,,Fresh,,,,Straw Yellow,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Diablo black cabernet sauvignin,Red,,,,5,"black-cherry, tobacco, vanilla",Medium Sweet,Full Bodied,Aromatic,Smooth,,,2019.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Mcguigan black label Red,Red,,,,5,,Medium Sweet,Light,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Mcguigan black label pinot grigio,White,,,LightWhite,5,,Medium Sweet,,,Fresh,,,,,Soft
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Pinot noir provincial Di pavia rose,Rose,,,Rosé,5,,Dry,Light,,Fresh,,,2019.0,,Soft
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Apothic cab,Red,,,BoldRed,5,,Medium Sweet,Medium Full,Aromatic,Smooth,,,,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Sauvignon Blanc,White,Sauvignon Blanc,Marlborough,LightWhite,5,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Jam shed shiraz,Red,,,MediumRed,4,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Montecampo prosecco Italy,White,,,,4,,Medium Sweet,,,Crisp,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Chateauneuf du pape les cailloux,Red,,,BoldRed,5,"strawberry, raspberry, blueberry, black-cherry, black-pepper",Dry,Full Bodied,Aromatic,Fresh,,,2016.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Chartreuse de Bonpas Réserve,Red,"Shiraz/Syrah, Grenache, Mourvedre",Côtes-du-Rhône,,4,"blackberry, blackcurrant, oak, vanilla, leather",,Full Bodied,,Smooth,,,2018.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Jam shed malbec,Red,,,MediumRed,5,"vanilla, chocolate",Medium Sweet,Medium Full,,Fresh,,,2020.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Casillero del diablo pinot gringo,White,,,,5,,Medium Sweet,,,Crisp,,,,,Dry Tannins
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,The long coast cabernet sauvignon,Red,,,,4,,,,,,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,I heart wines3,Red,,,MediumRed,4,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Dark (Red Blend),Red,"Shiraz/Syrah, Merlot, Zinfandel",California,,5,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Pinot grigio garda,White,,,,4,,Dry,,,Crisp,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,19 crimes dark red,Red,,,BoldRed,5,"blackberry, blueberry",Medium Sweet,Full Bodied,Moderate,Smooth,,,2019.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Pinot grigio 2019 puglia,White,,,LightWhite,5,,,,,,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Malbec (Reserva),Red,Malbec,Central Valley,BoldRed,5,"black-cherry, plum, black-pepper, vanilla",,Full Bodied,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Tempranillo,Red,Tempranillo,Rioja,BoldRed,5,"raspberry, redcurrant, red-cherry, cherry, vanilla",,Full Bodied,Moderate,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Diablo dark red,Red,,,,5,,,Full Bodied,,Smooth,,,,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,California chardonnay,White,,,,4,"peach, honey",Dry,Light,,Crisp,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Klein St cabernet sauvignon,Red,,,MediumRed,4,blackcurrant,,Medium Full,,Smooth,,,2020.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Chateauneuf du pape,Red,,,,5,"blackberry, black-cherry, red-cherry",Dry,Full Bodied,Aromatic,Smooth,,,2018.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Vignobles roussellet pinot noir,Red,,,LightRed,4,,Dry,,,Smooth,,,,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Baron amarillo rioja denomacion de origen calificada,Red,,,,4,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Baron amarillo rioja denomacion de origen calificada,Red,,,,4,,Dry,,,Crisp,,,,,Dry Tannins
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Black Label Champagne Brut,White,"Chardonnay, Pinot Noir, Pinot Meunier",Champagne,Sparkling,5,,Dry,,,Crisp,,,,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Castlelore pinot grigio lazio,Rose,,,,5,"strawberry, pear",Medium Sweet,Light,,,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Bordeaux,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot",Bordeaux,,5,"blackberry, blackcurrant",,Full Bodied,,Smooth,,,2018.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Bordeaux,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot",Bordeaux,,5,,Medium Sweet,Full Bodied,Moderate,Crisp,,,2018.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Tingleup Vineyard Riesling,White,Riesling,Great Southern,SweetWhite,5,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,19 crimes red wine,Red,,,,3,,,Medium Full,,,,,2019.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Diablo cabernet Black sauvignon,Red,,,,4,vanilla,,,Powerful,,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Reserva Privada Sauvignon Blanc,White,Sauvignon Blanc,Limarí Valley,LightWhite,5,,,,,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Bonpas Reserue de Bonpas,Red,,,,4,,,,,,,,2019.0,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Chateau les bouysses,Red,,,BoldRed,5,"black-cherry, blackberry",Medium Sweet,Full Bodied,Aromatic,Smooth,,,2018.0,,Round
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,"Beefsteak club mendoza, Argentina, malbec ",Red,,,,4,"cherry, red-cherry",,,Aromatic,,,,,,
+2a62eecd-b0cd-4395-9f8c-7c912a208be2,Cabernet Sauvignon (Reserva),Red,Cabernet Sauvignon,Central Valley,BoldRed,5,,,,,,,,,,
+9250d444-805f-4756-a03b-93a597ab320d,Domaine des Granges de Mirabel Coteaux-de-l'Ardèche Viognier,White,Viognier,Ardèche,RichWhite,5,,Medium Sweet,Full Bodied,,Smooth,,,,,Round
+9250d444-805f-4756-a03b-93a597ab320d,Alazani Valley Red Semi Sweet (ალაზნის ველი წითელი ნახევრად ტკბილი),Red,Saperavi,Kakheti,,4,"blueberry, blackberry",Medium Sweet,Medium Full,Aromatic,Smooth,Medium,Clear,,Purplish,Round
+7f815d0f-a32b-4b97-b2da-87e8a3670ec3,Dornfelder shloss koblenz gmbh,Red,Dornfelder,Dornfelder Trocken,BoldRed,4,,Dry,,Moderate,,Medium,Cloudy,,Purplish,Dry Tannins
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Sauvignon Blanc,White,Sauvignon Blanc,,LightWhite,4,,Sweet,Light,Aromatic,Fresh,Pale,Clear,2019.0,Straw Yellow,Not Present
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Merlot Cabernet Sauvignon,Red,,,MediumRed,4,,Medium Sweet,Full Bodied,Aromatic,Fresh,,Clear,2018.0,,Dry Tannins
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Iced sauvignon blanc,White,,,,4,,,,,,,,2015.0,,
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Voysey pinot gris,White,,,,4,,,,,,,,2019.0,,
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Pinot Gris,White,,,,3,,Dry,Light,Aromatic,Fresh,Pale,Clear,2019.0,Gold,Not Present
+4a3e010a-0761-48d4-90c1-b2905e0b7b4a,Pinot Noir,Red,,,,3,,Medium Sweet,Medium Full,Moderate,Fresh,Medium,Clear,2018.0,Ruby,Round
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Vermentino di Gallura,White,Vermentino,Vermentino di Gallura,LightWhite,3,,Medium Sweet,Light,Low,Smooth,Dark,Clear,,Gold,Dry Tannins
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Pigato Riviera Ligure di Ponente,White,Pigato,Riviera Ligure di Ponente,,4,"lime, pear, elderflower",Medium Sweet,Light,Low,Fresh,Pale,Slight Haze,2021.0,Straw Yellow,Soft
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Primitivo Manduria,Red,Primitivo,Primitivo di Manduria,BoldRed,2,"cranberry, kirsch",Dry,Light,Moderate,Crisp,Dark,Slight Haze,2020.0,Purplish,Dry Tannins
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Rosso di Montalcino,Red,Sangiovese,Rosso di Montalcino,MediumRed,2,"lilac, black-cherry",Bone Dry,Medium Full,Moderate,Flabby,Dark,Cloudy,2020.0,Ruby,Hard
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Moscato d'Asti,White,Moscato,Moscato d'Asti,Sparkling,4,"apple, pear",Very Sweet,Very Light,Moderate,Smooth,Pale,Clear,2022.0,Greenish,Not Present
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Johannisberger Erntebringer Riesling Feinherb,White,Riesling,Rheingau,SweetWhite,3,,Medium Sweet,Light,Low,Smooth,Medium,Clear,,Straw Yellow,Soft
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Cinque Terre,White,"Vermentino, Albarossa, Bosco",Cinque Terre,,5,"pear, elderflower",Medium Sweet,Light,Aromatic,Smooth,Medium,Clear,2022.0,Straw Yellow,Round
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Franciacorta Milledì Brut,White,Chardonnay,Franciacorta,Sparkling,5,,,,,,,,,,
+25a04c51-5638-42f0-b2e7-ce49b1c280fc,Chasselas,White,Chasselas,Alsace,,3,,Medium Sweet,Light,Moderate,Smooth,,,,,Not Present
+406ed450-5225-41ac-a02f-3ac1d1a1179b,Pinot Nero,Red,Pinot Nero,Vigneti delle Dolomiti,LightRed,5,"blackberry, violet, cloves, forest-floor, chocolate",Bone Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Garnet,Round
+f72ac50c-2695-4a87-ac8c-23a570d1863e,Prosecco Valdobbiadene Extra Dry Marca Oro,White,Glera (Prosecco),Conegliano-Valdobbiadene Prosecco,Sparkling,4,,Dry,Light,,Crisp,Medium,Slight Haze,,Straw Yellow,Not Present
+99654a70-c3bb-46f4-8697-b9345482e48d,Pinot Grigio Valdadige,White,Pinot Grigio,Valdadige,LightWhite,4,grape,Medium Sweet,Medium Full,Low,Fresh,Pale,Slight Haze,,Greenish,Soft
+99654a70-c3bb-46f4-8697-b9345482e48d,Dark (Red Blend),Red,"Shiraz/Syrah, Merlot, Zinfandel",California,,4,,Dry,Full Bodied,Powerful,Fresh,Dark,Slight Haze,,Purplish,Dry Tannins
+99654a70-c3bb-46f4-8697-b9345482e48d,Cabernet Sauvignon,Red,Cabernet Sauvignon,Columbia Valley,BoldRed,3,,Dry,Full Bodied,Powerful,Tart,Medium,Slight Haze,,Purplish,Dry Tannins
+99654a70-c3bb-46f4-8697-b9345482e48d,Red (Winemaker's Blend),Red,"Shiraz/Syrah, Cabernet Sauvignon, Merlot, Zinfandel",California,,4,,Medium Sweet,Full Bodied,Moderate,Crisp,Dark,Clear,,Purplish,Soft
+2ffa77ed-f280-430f-bc1c-cefe06bc1de3,Reserve Cabernet Sauvignon - Caberent Franc,Red,"Cabernet Sauvignon, Cabernet Franc",Finger Lakes,,3,,,,,,,,,,
+2ffa77ed-f280-430f-bc1c-cefe06bc1de3,Bel Canto Dry Riesling,White,Riesling,Canterbury,SweetWhite,3,"burnt-rubber, peach",Medium Sweet,Medium Full,Aromatic,Smooth,Medium,Slight Haze,,Gold,Soft
+06ca7474-a4b1-4b25-8775-aed5b238c8dd,Colimoro,Red,Montepulciano,Montepulciano d'Abruzzo ,MediumRed,5,blackcurrant,Dry,Medium Full,Aromatic,Smooth,Dark,Cloudy,,Purplish,
+c3371365-d499-4675-aa68-dbc7b11f0777,Picpoul de Pinet Higues de Beauvignac,White,,,,5,"grapefruit, blossom, lemon",Dry,Very Light,Low,Crisp,Pale,Clear,2021.0,Straw Yellow,Not Present
+55851c14-2fd7-4f7e-b4de-b45e14825ac3,Riesling Goldmund Feinherb,White,,,,2,"sour-cherry, lemon, grass, grapefruit",Medium Sweet,Light,Moderate,Crisp,Medium,Slight Haze,2017.0,Gold,Not Present
+c2dfb861-cdad-4fb2-9460-fc794c7f6cad,Merlot (U),Red,Merlot,Central Valley,MediumRed,2,"grape, grapefruit, musty, vinegar",Dry,Light,Low,Crisp,Medium,Clear,,Purplish,Dry Tannins
+c2dfb861-cdad-4fb2-9460-fc794c7f6cad,Merlot,Red,Merlot,California,MediumRed,4,,Medium Sweet,Medium Full,Aromatic,Smooth,,Clear,,,Round
+367d109c-cc13-43ec-b153-a9547a12bd4c,M Rosé,Rose,"Cinsault, Shiraz/Syrah, Grenache",Côtes de Provence,Rosé,4,"orange-peel, grapefruit, lychee",Dry,Light,Moderate,Fresh,,Clear,2021.0,Salmon,Not Present
+b795d9cf-103b-48ca-85cf-35502c019801,Prosecco,White,Glera (Prosecco),Prosecco,,4,,,Light,Aromatic,Fresh,Medium,Clear,2018.0,Gold,
+b795d9cf-103b-48ca-85cf-35502c019801,Tarapaca,Red,Syrah,,,4,"cinnamon, blackberry",Sweet,Full Bodied,Moderate,Smooth,Medium,Slight Haze,2016.0,Garnet,Hard
+441ac739-42f8-48d2-9526-fdedf2d4852f,Terrano,Red,Terrano,Carso,MediumRed,2,,Dry,Medium Full,Moderate,Fresh,Pale,Slight Haze,,Ruby,Dry Tannins
+441ac739-42f8-48d2-9526-fdedf2d4852f,Bollicina,White,,Carso,Sparkling,3,,Dry,Light,Moderate,Fresh,Medium,Clear,,Greenish,
+441ac739-42f8-48d2-9526-fdedf2d4852f,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,2,,Dry,Medium Full,Aromatic,Smooth,Medium,Slight Haze,,Straw Yellow,
+71d38b96-326c-4d01-afc4-b12c947a5c6b,Rosso Carso Črnina,Red,Refosco,Carso,MediumRed,4,"strawberry, raspberry, redcurrant",Dry,Medium Full,Moderate,Fresh,,Slight Haze,,Purplish,Soft
+71d38b96-326c-4d01-afc4-b12c947a5c6b,Terrano,Red,Terrano,Carso,MediumRed,4,"cherry, black-cherry",Dry,Medium Full,Moderate,Crisp,Dark,Clear,,Ruby,Soft
+dc90e649-113d-4cec-983e-d03a7d4acff3,Cabernet Sauvignon,Red,Cabernet Sauvignon,California,BoldRed,5,Berries,Medium Sweet,Medium Full,Moderate,,Medium,Slight Haze,,Purplish,
+c15fdd5b-3f75-42c3-9dde-5735828c88e7,Oltrepo pavese riesling poderi riccagioia,Red,,,,3,lime,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #5,Red,Shiraz/Syrah,Crozes-Hermitage,MediumRed,4,"Black pepper, black, blue",Dry,Medium Full,Moderate,Crisp,Dark,Clear,2014.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,"Chateau Grand Village, Bordeaux",White,"Sémillon, Sauvignon Blanc",Bordeaux,RichWhite,3,"smoke, grass, 羊毛油, WAH: Lemon, Green wood, Boiled cabbage, Oak,Waxy",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2011.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,2/5 大亂鬥 2,White,Grüner Veltliner,Wachau,LightWhite,1,"Lees,neutral,orange peel, old oak, Decanted: Lime, Mint, 汽水味，汽油味，涼感",Dry,Medium Full,Low,Fresh,Medium,Clear,2014.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,2／17 @home #4,Red,Merlot 為主,Côtes de Blaye,BoldRed,4,"漿果，Oak, red fruit, sweet and ripe, floral, Black bubble tea, 3/4 mint, 土壤， 波爾多味",Dry,Full Bodied,Moderate,Smooth,Medium,Clear,2017.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,Domaine Roger Perrin,White,"Viognier 85%, Grenache Blanc, marsanne 1-7%",Côtes du Rhône,RichWhite,3," Papaya, Peach, Apricot, Quince, Fig, Oak, 雨後草地，ripeness,, Candid, orange-peel",Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2016.0,Gold,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 1,White,Sauvignon Blanc,Marlborough,LightWhite,5,"草，mineral,stone, 微氣泡",Dry,Light,Moderate,Crisp,Pale,Clear,2018.0,Greenish,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 4,White,Riesling,Eden Valley,LightWhite,5,"汽油，羊毛油，, 汽油汽油汽油，會有打火石感。羊毛油不沒有打burnt",Dry,Light,Aromatic,Crisp,Pale,Clear,2013.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #2,Red,Shiraz/Syrah,Hawkes Bay,MediumRed,4,"Butter, creamy mlf dominated, Floral, Hermitage or saint joseph, 線香，檀香, ** 這是syrah氣味",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2011.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,Les Grands Blancs,White,Sémillon,Bordeaux,RichWhite,2,,,,,,,,2018.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Te Koko,White,Sauvignon Blanc,Marlborough,LightWhite,5,"Grassy, 葡萄皮，葡萄柚，百香果，芭樂，香料，白胡椒, 熱帶水果",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2015.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／18 大陸白 8,White,Furmint,Tokaji,LightWhite,3,"塑膠，汽油，花香, 硝石味",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2016.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Terroir de Granit Saint Joseph,Red,Shiraz/Syrah,Saint-Joseph,BoldRed,5,,,,,,,,2015.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,Terroir de Granit Saint Joseph,Red,Shiraz/Syrah,Saint-Joseph,BoldRed,5,"煙燻，皮革，ripe red fruit, plum, earth, wood, Heavy, serious",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2015.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／Chevalier de Lascomes,Red,"Merlot, Cabernet Sauvignon",Margaux,MediumRed,4,"Oak, black fruit, creamy,, warm, ripe, sweet,",Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2015.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 7,Red,Garnacha,Monsant,BoldRed,5,"Red, oak, meaty,no grass,",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2014.0,Ruby,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,2／17 @home #10,White,Pinot Grigio,Alto Adige,LightWhite,4,"I think very typical of green apple, 一點wetness, French oak, Check: no oak, stainless tank, 西洋梨",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2017.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Dominique Gruhier,White,Chardonnay,Petit Chablis,LightWhite,4,"rocks, WAH: Lime, Lemon, Grass, no oak, mineral",Bone Dry,Light,Moderate,Crisp,Pale,Clear,2017.0,Greenish,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 11,Red,,,,1,"Raspberry, no oak, 甜",Dry,Light,Moderate,Smooth,Medium,Clear,,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #1,Red,Shiraz/Syrah,Barossa,BoldRed,4,"Oaky, black, smoky,meaty, No grass， olive, 澳洲味，, 氫味",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2015.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 9,Red,"Cabernet Sauvignon, Carménère",Colchagua,BoldRed,4,"Green pepper, no ripe, CS氣味",Dry,Medium Full,Moderate,Crisp,Medium,Clear,,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Temata 4 Merlot/Cabernet Sauvignon,Red,"Merlot, Cabernet Sauvignon",Hawkes Bay,MediumRed,4,"法國桶，花香，MLF ，ripe blueberry, warm, 甜美，木頭調性",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,Paul Jaboulet Aine,White,Viognier,Côtes du Rhône,RichWhite,3,"WAH: Papaya, Apple, Peach, Apricot, Jasmine, Hay, Walnut, Oak, Floral",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Gold,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #3,Red,Shiraz/Syrah,Mclaren Vale,BoldRed,4,"Smoky,spice, floral, bitterness, 果香很多？, 鼻後有澳州味",Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2017.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／18 大陸白 7,White,Gamay blanc,,,4,"Yellow apple, apricot, pineapple 心",Dry,Medium Full,Moderate,Crisp,Medium,Clear,,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,4/15 新世界紅 2 RAka Pinotage,Red,Pinotage,Western cape,BoldRed,5,,,,,,,,2016.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,Willm Riesling,White,Riesling,Alsace,RichWhite,3,"WAH: Lemon, Orange, Peach, Honey, Petroleum, Rubber, 白花",Dry,Medium Full,Aromatic,Tart,Medium,Clear,2017.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Dolcetto d'Alba Classici,Red,Dolcetto,Dolcetto d'Alba,MediumRed,5,,,,,,,,2018.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,Dolcetto d'Alba Classici,Red,Dolcetto,Dolcetto d'Alba,MediumRed,5,"Very fruity, raspberry, strawberry, ripe, no oak, no herbal, red berry",Dry,Light,Aromatic,Fresh,Pale,Clear,2018.0,Purplish,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,2/26 海洋影響白 #2 Etna Bianco,White,"Carricante, Catarratto Bianco",Etna,RichWhite,4,"Yellow, no herbaceous,",Dry,Medium Full,Low,Crisp,Medium,Clear,2017.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,La Rocca Soave Classico,White,Garganega,Soave Classico,LightWhite,5,,,Light,,,,,2018.0,Straw Yellow,
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Temata Coleraine,Red,"Cabernet Sauvignon, Merlot",Hawkes Bay,BoldRed,4,"Green pepper, floral, red fruit acidity, mint, ",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2015.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 8,Red,Tempranillo,Ribera del Duero,BoldRed,5,"American oak, milk, , Meaty, 醬菜味，陳舊",Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2016.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／1 Ch. Saransot-Dupre,Red,"Merlot, Cabernet Sauvignon",Médoc,MediumRed,4,香氣比較沉的，嚴肅，果味在後面，blackcurrant,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2015.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3/18 大陸白 1 Le Chene Marchand,White,Sauvignon Blanc,Sancerre,LightWhite,3,"Apple, yellow, oak, ripe, warm of cool",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2018.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #9,Red,"Shiraz/Syrah, Grenache, Carignan",Côtes du Rhône,BoldRed,4,"尤加利，精油，french oak,, Heathcote, 應該要找到紅色莓果風味",Dry,Full Bodied,Aromatic,Crisp,Dark,Clear,2017.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,Girard Old Vine Zinfandel,Red,Zinfandel,Napa Valley,,5,,,,,,,,2016.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,"Le Fay d'Homme .Muscadet, France",White,Muscadet,Loire Nantais,LightWhite,3,"WAH: Apple, Hay, Yeast。",Bone Dry,Light,Moderate,Flabby,Pale,Clear,2017.0,Straw Yellow,
+bc79b0e3-064d-4240-86de-e86499f577e8,"Guillot, Julien (Vignes du Maynes) 2018",Red,Pinot Noir,Mâcon-villages,MediumRed,4,,Dry,Medium Full,Moderate,Fresh,Medium,Slight Haze,2018.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／18 大陸白 4 Trimbach Gewurztraminer Reserve,White,Gewürztraminer,Alsace,RichWhite,4,"Lychee, peach, orange marmalade",Dry,Full Bodied,Aromatic,Smooth,Medium,Clear,2013.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Roero Arneis,White,Arneis,Roero,,5,,,,,,,,2015.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #7,Red,Shiraz/Syrah,Victoria,BoldRed,4,"尤加利，black pepper, black fruit, pungent, 涼感，Victoria",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2009.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,2／17 @home #5,White,Melon de Bourgogne,Muscadet-Sevre et Maine,LightWhite,5,"氫味，neutral, no oak, white fruit, 山泉水，lime",Dry,Light,Low,Crisp,Pale,Clear,2017.0,Greenish,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #4,Red,Shiraz/Syrah,Saint-Joseph,MediumRed,3,"Meaty, stinky, farm, earth, 顏色深，, Saint Joseph 很多臭味的酒",Dry,Full Bodied,Moderate,Crisp,Dark,Clear,2017.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,Collezione Chianti,Red,Sangiovese,Chianti,MediumRed,3,"熱浪裡的果園，烤的感覺，老木頭，櫻桃乾, 沒有西班牙感，也不像新世界",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2018.0,Ruby,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,2／17 @home #7,Red,Zinfandel,California,BoldRed,4,"  Not pungent, sweet hint,黑糖，plum, Oak obvious, 橡木桶進行4到6個月的熟成。, blueberry",Dry,Medium Full,Moderate,Fresh,Pale,Clear,2016.0,Purplish,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,3／18 大陸白 6 Lepus Pinot Bianco,White,Pinot Blanc,Alto Adige,LightWhite,3,"鹹味，礦石，很像Chardonnay, Bourgogne Aligote",Dry,Medium Full,Moderate,Crisp,Pale,Clear,2016.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Temata 3 Sauvignon Blanc,White,Sauvignon Blanc,Hawkes Bay,LightWhite,4,"Neutral, 很寡淡, 沒有桶味",Dry,Light,Moderate,Crisp,Pale,Clear,2018.0,Greenish,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Temata Awatea,Red,"Merlot, Cabernet Franc",Hawkes Bay,MediumRed,4,"Clean, french oak,, Bordeaux Blend, Redberry, ",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2017.0,Ruby,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,5/20 Domaine de Thalabert Croze Hermitage,Red,Shiraz/Syrah,Crozes-Hermitage,MediumRed,3,,,,,,,,2016.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,"Eric Louis Sancerre, Sauvignon Blanc",White,Sauvignon Blanc,Sancerre,LightWhite,3,"WAH: Grapefruit, Grass, Bell pepper, Cat pee",Bone Dry,Light,Aromatic,Tart,Pale,Clear,2014.0,Greenish,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,2/5 大亂鬥 1,White,Chardonnay,Casablanca,RichWhite,3,"WAH: Grass, DECANTED:  Apple, Butter, Smoke. Now it is definitely Chardonnay",Dry,Medium Full,Low,Crisp,Pale,Clear,2017.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,3／17 Temata 2 Cape Crest,White,Sauvignon Blanc,Hawkes Bay,RichWhite,5,草梗味，法國桶，奶香，,Dry,Medium Full,Moderate,Tart,Medium,Clear,2016.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Veuve Ambal Methode Traditionelle Blanc de Blancs,White,Chardonnay,Bourgogne,Sparkling,5,,,,,,,,,Straw Yellow,
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #6,Red,Shiraz/Syrah,Hermitage,MediumRed,3,"Tea aroma, clean, shiraz, Restricted oak, clean, Fruit aroma, 不像典型Hermitage那樣powerful,偏典雅",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2010.0,Purplish,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 2,White,Garganega,Soave CLassico,LightWhite,5,"Ow, no oak, herbaceous,pear, Almond",Dry,Medium Full,Moderate,Fresh,Pale,Clear,2018.0,Straw Yellow,Not Present
+bc79b0e3-064d-4240-86de-e86499f577e8,Boscarelli Vino Nobile de Montepulciano DOCG,Red,"Sangiovese, 85%",Vino Nobile di Montepulciano,MediumRed,5,"揮發性，舊桶，番茄乾，醬，no grass, no rs, woody",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2014.0,Garnet,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,2／17 @home #1,Red,"Shiraz/Syrah, Grenache, Carignan",Côtes du Luberon,BoldRed,4,"Oak, no grass, blueberry,ow, 小紅莓",Dry,Full Bodied,Moderate,,Medium,Clear,2017.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 10,Red,Pinot Noir,Willamette Valley,MediumRed,5,"Grassy, earthy",Dry,Light,Low,Crisp,Pale,Clear,2017.0,Ruby,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 5,Red,Shiraz/Syrah,Southern Eastern,MediumRed,5,"奶味，紅色，櫻桃, AUSTRALIA 尤佳麗",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Purplish,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,3／4 大亂鬥 6,Red,Aglianico,Campania,BoldRed,1,"French oak,mlf, Bordeaux blend 氣味",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2013.0,Ruby,Dry Tannins
+bc79b0e3-064d-4240-86de-e86499f577e8,Firesteed Centerstone Unoaked Chardonnay,White,Chardonnay,Willamette Valley,RichWhite,2,,,,,,,,2017.0,,
+bc79b0e3-064d-4240-86de-e86499f577e8,3/11 Syrah and blend #10,Red,"Shiraz/Syrah, Grenache, Carignan",Côtes du Roussillon,MediumRed,4,"Smoky, redberry, leather, ",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2016.0,Purplish,Round
+bc79b0e3-064d-4240-86de-e86499f577e8,Charles Smith,Red,Cabernet Sauvignon,Washington State,MediumRed,3,"WAH: Black currant, Blackberry, Blueberry, Vanilla, Bell pepper, Oak, Smoke, Ripe, cooked",Dry,Full Bodied,Aromatic,Crisp,Dark,Clear,2014.0,Purplish,Round
+90044d43-6ed0-4fd6-b8bc-7f72ea6ab800,Popcorn Chardonnay,White,Chardonnay,,RichWhite,4,"lemon, butter, oak",Medium Sweet,Medium Full,Aromatic,Smooth,Medium,Slight Haze,2021.0,Gold,
+83128cf9-f07f-4de1-97cf-cbde8d38bc3c,Riesling,White,Riesling,,LightWhite,5,"peach, mango, Flowers",Dry,Light,Aromatic,Smooth,Pale,Clear,2019.0,Straw Yellow,Not Present
+83128cf9-f07f-4de1-97cf-cbde8d38bc3c,Odessa Black,Red,,,,5,"mulberry, blackcurrant, Cherry, Wood, Smoke",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2019.0,Ruby,Dry Tannins
+df904a46-c461-4233-9d44-6ac11a8bbddc,Fiano di Avellino,White,,,,4,,,,Aromatic,Crisp,Medium,Clear,,Straw Yellow,
+df904a46-c461-4233-9d44-6ac11a8bbddc,Chardonnay Trentino Terresomme ,White,Chardonnay,,LightWhite,3,"apple, pear, lemon",Dry,Medium Full,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+df904a46-c461-4233-9d44-6ac11a8bbddc,Il Bianco di Ciccio (Tralcetto),White,"Chardonnay, Trebbiano, Montepulciano, ""Trebbiano DAbruzzo""",Abruzzo,,3,"plum, cherry, lime, blackberry",Dry,Light,Moderate,Smooth,Dark,Clear,2021.0,Straw Yellow,Not Present
+df904a46-c461-4233-9d44-6ac11a8bbddc,Orvieto classico amabile ,White,"Trebbiano, Grechetto, Malvasia, Verdelho, Drupeggio",,SweetWhite,3,,Medium Sweet,Light,Moderate,Smooth,Medium,Clear,2021.0,Straw Yellow,Not Present
+df904a46-c461-4233-9d44-6ac11a8bbddc,Governo all’uso toscano Bernardeschi,Red,"Cabernet Sauvignon, Merlot, Sangiovese",Governo Bernardeschi I.G.T. Toscana,MediumRed,4,"cherry, plum, blackberry, apricot",Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2019.0,Garnet,Round
+df904a46-c461-4233-9d44-6ac11a8bbddc,Chianti,Red,"Sangiovese, Canaiolo Nero",Chianti,,4,"black-cherry, blueberry",Bone Dry,Medium Full,Aromatic,Smooth,Pale,Slight Haze,2021.0,Garnet,Round
+df904a46-c461-4233-9d44-6ac11a8bbddc,Angiolo Puccini Organic Rosso Toscana,Red,"Sangiovese, Colorino del Valdarno, Malvasia Nera, Ciliegiolo",Toscana,,4,"cherry, cranberry, red-plum, black-cherry, blueberry",Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,2020.0,Garnet,Round
+df904a46-c461-4233-9d44-6ac11a8bbddc,Rèmole Rosso,Red,"Cabernet Sauvignon, Sangiovese",Toscana,,3,"raspberry, plum",Bone Dry,Light,Aromatic,Smooth,Medium,Slight Haze,2021.0,Garnet,Round
+df904a46-c461-4233-9d44-6ac11a8bbddc,Passerina  Terre di Chieti  IGP,White,Passerina,,LightWhite,4,"jasmine, apple, peach",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2023.0,Gold,Not Present
+df904a46-c461-4233-9d44-6ac11a8bbddc,Astrale,Red,"Montepulciano, Sangiovese, Primitivo",Vino rosso d’Italia,MediumRed,3,"cherry, plum",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2021.0,Garnet,Round
+df904a46-c461-4233-9d44-6ac11a8bbddc,Kriya Pecorino,White,Pecorino,,LightWhite,3,"apple, lemon",Dry,Light,Aromatic,Fresh,Pale,Clear,2021.0,Gold,Not Present
+df904a46-c461-4233-9d44-6ac11a8bbddc,Lagrein Trentino,Red,Lagrein,Trentino,,3,"raspberry, apple",Bone Dry,Light,Aromatic,Fresh,Medium,Clear,2020.0,Purplish,Soft
+e9a40b1d-e044-4cad-90ff-a1e62a37f999,Ksara Blanc De Blancs,White,,,,3,Savanyú,,,Low,,,,,,
+f05195e2-51c8-4067-afbd-d0804c860cdd,Cambras merlot cabernet sauvignon,Red,,,,3,,,,Moderate,,Dark,Slight Haze,,Garnet,
+7959b4b6-b107-4366-8730-356492f9b346,Jiasik Bianco,White,"Riesling, Malvasia",Friuli-Venezia Giulia,SweetWhite,4,"lemon-peel, grapefruit, apricot",Bone Dry,Medium Full,Aromatic,Crisp,Pale,Slight Haze,,Straw Yellow,
+7a20fe0e-38bf-4e66-967a-dd60aa05d77f,Russiz Superiore,White,Friulano,Collio,,5,"blossom, Floral, hawthorn, Camomile, Vegetable",Medium Sweet,Medium Full,,Fresh,Medium,Clear,2018.0,Straw Yellow,Not Present
+902db46c-a5bf-4d52-acd6-067a2bf3b876,Chardonnay,White,Chardonnay,Napa Valley,RichWhite,4,nectarine,Sweet,Full Bodied,Aromatic,Fresh,Medium,Cloudy,,Brownish,Soft
+e019e935-677a-4713-9c68-e19d2db878c4,Mussignaz Müller Thurgau,White,Müller-Thurgau,Trevenezie IGT,SweetWhite,3,"green-pepper, yogurt, wet-gravel, sultana",Dry,Light,Aromatic,Crisp,Medium,Clear,2021.0,Straw Yellow,Round
+22c5c1cb-88fd-4870-a911-846516978ed4,Malbec (High Mountain Vines),Red,Malbec,Mendoza,BoldRed,5,,Medium Sweet,Full Bodied,Aromatic,Smooth,,,,Purplish,
+77b7936b-9797-4d14-81bd-a365d777f83d,Montepulciano d'Abruzzo,Red,Montepulciano,Montepulciano d'Abruzzo,MediumRed,4,"red-cherry, strawberry",Dry,Full Bodied,Aromatic,Fresh,Dark,Cloudy,2019.0,Purplish,Soft
+77b7936b-9797-4d14-81bd-a365d777f83d,Nebbiolo d'Alba,Red,Nebbiolo,Nebbiolo d'Alba,BoldRed,4,"red-cherry, grape, black-cherry",Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,2019.0,Purplish,Soft
+a74f0e85-dae3-49ca-b6de-f68e9576ad93,Gattinara,Red,Nebbiolo,Gattinara,BoldRed,5,,Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Slight Haze,,Ruby,Dry Tannins
+4e0cbfe3-8d73-4af4-b09e-f3193d1170a5,Zahorra Blanca,White,,,,1,wet-wool,Bone Dry,Light,Aromatic,Crisp,Medium,Clear,2020.0,Greenish,Not Present
+4e0cbfe3-8d73-4af4-b09e-f3193d1170a5,Marmajuela,White,,,,4,apple,Dry,,Aromatic,Fresh,Medium,Clear,2020.0,Gold,Not Present
+4ee63478-4f55-49ba-8e7f-87bd2c01d028,Estates Seven Oaks Cabernet Sauvignon,Red,Cabernet Sauvignon,Paso Robles,BoldRed,4,"green-pepper, pepper",Dry,Heavy,Aromatic,Crisp,,Clear,2019.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Vicar’s Choice Sparkling,White,Sauvignon Blanc,,,4,grapefruit,Bone Dry,Light,Aromatic,Crisp,Medium,Clear,2021.0,Straw Yellow,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Gigione,Red,Sangiovese,Rubicone,MediumRed,3,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2017.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Friulano,White,Friulano,,,4,,Dry,Light,Moderate,Crisp,Pale,Clear,2017.0,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valpolicella Ripasso (Classico Superiore),Red,"Sangiovese, Pinot Grigio, Rondinella, Corvinone, Corvina Veronese",Valpolicella Ripasso,,4,plum,Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2017.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cava Brut,White,,,,4,,Medium Sweet,Very Light,Moderate,Fresh,Pale,Clear,,Greenish,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Franciacorta Brut,White,,,,4,,Bone Dry,Very Light,Moderate,Crisp,Pale,Clear,,Greenish,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valdobbiadene Prosecco Superiore Millesimato,White,Glera (Prosecco),Conegliano-Valdobbiadene Prosecco,Sparkling,4,,Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Greenish,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Montefalco Rosso,Red,,,,3,,Dry,Full Bodied,Moderate,Smooth,Medium,Slight Haze,2012.0,Purplish,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Perlugo Extra Brut,White,Verdicchio,Marche,Sparkling,4,bread,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,,Gold,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Ribolla Gialla Brut,White,,,,4,,Medium Sweet,Light,Aromatic,Crisp,Pale,Clear,,Gold,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Phigaia (After The Red),Red,"Cabernet Sauvignon, Cabernet Franc, Merlot",Montello e Colli Asolani,,5,black-cherry,Dry,Medium Full,Powerful,Fresh,Medium,Clear,2017.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valdobbiadene Prosecco Superiore Extra Dry,White,Glera (Prosecco),Conegliano-Valdobbiadene Prosecco,Sparkling,4,,Dry,Light,Moderate,Crisp,Pale,Clear,,Greenish,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Chardonnay Cardellino,White,,,,5,,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2017.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Susumaniello,Red,,,,4,raspberry,Dry,Full Bodied,Aromatic,Crisp,Dark,Clear,2018.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cuvée Imperiale Brut,White,,Franciacorta,,4,bread,Bone Dry,Light,Aromatic,Crisp,Pale,Clear,2020.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Lagrein Tor di Lupo,Red,,,,4,"chocolate, Frutti di bosco, cherry",Bone Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2016.0,Garnet,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Corail,Rose,,Côtes de Provence,,4,orange-peel,Dry,Light,Moderate,Crisp,Medium,Clear,2019.0,Salmon,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Zeno,White,,Franciacorta,,4,cedar,Bone Dry,Light,Moderate,Crisp,Dark,Clear,2016.0,Straw Yellow,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sauvignon de la Tour,White,Sauvignon Blanc,Collio,LightWhite,4,"peach, grapefruit",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2018.0,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Bossi Fedrigotti Fojaneghe,Red,"Cabernet Franc, Merlot, Teroldego",Vigneti delle Dolomiti,,4,vanilla,Dry,Full Bodied,Aromatic,Smooth,Medium,Clear,2015.0,Garnet,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Onedis,White,Ribolla Gialla,,,4,,Bone Dry,Light,Aromatic,Crisp,Pale,Clear,2018.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Ele,Rose,Pinot Nero,Franciacorta,,4,bread,Bone Dry,Light,Moderate,Crisp,Pale,Clear,,Salmon,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Montebruna Barbera d'Asti,Red,Barbera,Barbera d'Asti,MediumRed,4,cherry,Bone Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2018.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Pinot Bianco,White,Pinot Bianco,Alto Adige,,3,,Medium Sweet,Light,Moderate,Fresh,Pale,Clear,2013.0,Gold,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Riserva Ducale Chianti Classico,Red,"Cabernet Sauvignon, Merlot, Sangiovese, Montepulciano",Chianti Classico,,4,black-cherry,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cabernet Sauvignon,Red,Cabernet Sauvignon,,,5,,Dry,Medium Full,Aromatic,Smooth,Dark,Clear,2017.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Chardonnay,White,Chardonnay,Isonzo del Friuli,,4,"apple, banana",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2019.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Pinot Bianco Schulthauser ,White,,,,3,,Dry,Medium Full,Moderate,Crisp,Pale,Clear,2017.0,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Vieilles Vignes Rouge,Red,,Côtes du Rhône,,5,"strawberry, raspberry",Dry,Medium Full,Powerful,Smooth,Dark,Clear,2019.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Bortolomiol Vintage Extra Dry Millesimato,White,Glera (Prosecco),Conegliano Valdobbiadene-Prosecco,,3,,Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sharis,White,"Chardonnay, Ribolla Gialla",delle Venezie,,4,,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2019.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Trento Brut,White,Chardonnay,Trento,Sparkling,4,apple,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Refosco ,Red,Refosco,,,4,,Dry,Light,Moderate,Fresh,Medium,Clear,2015.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Solosole Vermentino,White,Vermentino,Bolgheri,LightWhite,4,apple,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2019.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Pinot Bianco,White,,,,3,,Bone Dry,Light,Low,Crisp,Pale,Clear,2017.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Rhino,White,"Chardonnay, Pinot Blanc",Franciacorta,,5,grapefruit,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valdobbiadene Prosecco Superiore Brut,White,Glera (Prosecco),Conegliano-Valdobbiadene Prosecco,Sparkling,5,,Bone Dry,Light,Moderate,Crisp,Pale,Clear,,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Ribolla Gialla,White,Ribolla Gialla,Venezia Giulia,,5,orange,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2017.0,Brownish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Blu di Burson,Red,Uva Longanesi,,MediumRed,4,,Dry,Medium Full,Aromatic,Smooth,Dark,Clear,2017.0,Garnet,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Servo Suo Extra Dry Edizione,White,,Conegliano Valdobbiadene-Prosecco,,4,"orange, grapefruit",Dry,Light,Moderate,Crisp,Pale,Clear,,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cabernet Franc,Red,Cabernet Franc,Friuli Isonzo,MediumRed,3,,Medium Sweet,Medium Full,Moderate,Smooth,Dark,Clear,2016.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Chardonnay,White,Chardonnay,,,5,Fiori,Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2013.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Collio Sauvignon,White,Sauvignon Blanc,Collio,LightWhite,4,ball-pepper,Dry,Medium Full,Moderate,Tart,Pale,Clear,,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sirmian Pinot Bianco,White,Pinot Blanc,Südtirol - Alto Adige,LightWhite,4,,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Passo alle Tremiti Aglianico,Red,Aglianico,,,3,"cherry, raspberry, vanilla",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2016.0,Ruby,Hard
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Le Premier,White,Chardonnay,Trento,,4,apple,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2020.0,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sior Berto,White,,,,4,,Bone Dry,Very Light,Moderate,Tart,Pale,Clear,,Straw Yellow,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Collepiano,Red,,Montefalco Sagrantino,,5,"blackberry, vanilla",Medium Sweet,Full Bodied,Powerful,Smooth,Dark,Clear,2016.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Brera,White,Pinot Noir,Franciacorta Brut Riserva,,5,"vanilla, almond",Bone Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2009.0,Gold,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Gewürztraminer,White,,,,4,,Medium Sweet,Medium Full,Aromatic,Fresh,Pale,Clear,2017.0,Gold,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Barbera Piemonte,Red,Barbera,Piemonte,MediumRed,4,"black-cherry, strawberry",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2018.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Nativi Gewürtztraminer,White,Gewürztraminer,Trentino,,3,jasmine,Medium Sweet,Medium Full,Moderate,Fresh,Medium,Clear,2019.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Inganno 572,White,Riesling,,,5,,Dry,Light,Moderate,Crisp,Pale,Clear,2018.0,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Vertigo,Red,"Cabernet Sauvignon, Merlot",delle Venezie,,4,"cherry, blackberry, raspberry, apricot, vanilla, tobacco",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2019.0,Purplish,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Lange Nebbiolo,Red,Nebbiolo,,BoldRed,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2017.0,Garnet,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Pinot Nero,Red,Pinot Nero,,,3,,Dry,Light,Low,Crisp,Pale,Clear,2018.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sangiovese Superiore,Red,,,MediumRed,4,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2018.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Nebbiolo d'Alba DOC Spumante Cuvée 970 Brut Rosé,Rose,Nebbiolo,Nebbiolo d’Alba Spumante Bru Rosé,,4,rose,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2018.0,Salmon,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cabernet Franc,Red,Cabernet Franc,,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2018.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Müller Thurgau,White,,,,3,,Medium Sweet,Light,Moderate,Fresh,Pale,Clear,2018.0,Greenish,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Raffa,White,Chardonnay,Franciacorta,,4,"grapefruit, acacia",Bone Dry,Light,Moderate,Crisp,Pale,Clear,,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Theo,White,Chardonnay,Franciacorta Extra Brut,,5,hazelnut,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Passo alle Tremiti Rosato,Rose,,,,3,,Dry,Light,Moderate,Fresh,Pale,Clear,2018.0,Salmon,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Lagrein,Red,Lagrein,,,3,cherry,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2020.0,Purplish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,"Bonarda ""La Gioiosa""",Red,Croatina,Bonarda dell'Oltrepò Pavese,,4,"red-cherry, red-plum",Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Pinot Grigio,White,,,,3,,Dry,Medium Full,Low,Fresh,Pale,Clear,2018.0,Greenish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valpolicella Ripasso Classico Superiore Le Muraie,Red,"Chardonnay, Trebbiano, Corvinone, Corvina Veronese, Malvasia, Rondinella, Moscato, Cortese, Oseleta",Valpolicella Ripasso,,4,blackberry,Medium Sweet,Full Bodied,Powerful,Fresh,Dark,Clear,2017.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Crémant d'Alsace Brut Rosè,Rose,,Crémant d'Alsace,,5,strawberry,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Salmon,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Franciacorta DOCG Nature,White,,Franciacorta,,4,"lemon-peel, bread",Bone Dry,Light,Moderate,Crisp,Medium,Clear,,Straw Yellow,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Chianti Classico,Red,"Sangiovese, Canaiolo Nero",Chianti Classico,,4,raspberry,Bone Dry,Full Bodied,Aromatic,Crisp,Dark,Clear,2016.0,Purplish,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Chardonnay Biele Zôe Cuvée 85/15,White,Chardonnay,,,3,,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2018.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Bishop’s Leap,White,Sauvignon Blanc,,,4,grapefruit,Bone Dry,Light,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sangiovese di Romagna Superiore,Red,Sangiovese,,MediumRed,4,"plum, blueberry",Dry,Medium Full,Moderate,Fresh,Medium,,2016.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Istrice,Red,"Cabernet Sauvignon, Cabernet Franc",Alto Adige,,4,"blackberry, coffee",Dry,Full Bodied,Aromatic,Smooth,Pale,Clear,2017.0,Garnet,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Mazon Trattmannhof Blauburgunder - Pinot Nero,Red,"Pinot Nero, Blauburgunder",Südtirol - Alto Adige,,5,"cherry, cranberry",Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2018.0,Ruby,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Sangiovese,Red,,,,3,,Bone Dry,Medium Full,Aromatic,Smooth,Dark,Clear,2018.0,Purplish,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Trentodoc Brut,White,,Trento,,3,apple,Bone Dry,Medium Full,Moderate,Tart,Pale,Clear,,Straw Yellow,Soft
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Merlot,Red,,,,2,,Dry,Light,Moderate,Tart,Medium,Clear,2018.0,Purplish,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Valdobbiadene Prosecco Superiore,White,,,,3,,Bone Dry,Light,Moderate,Crisp,Pale,Clear,,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Cabernet Sauvignon,Red,Cabernet Sauvignon,Napa Valley,BoldRed,5,"red-cherry, blackcurrant",Bone Dry,Full Bodied,Powerful,Fresh,Dark,Clear,2018.0,Ruby,Dry Tannins
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Gewürztraminer,White,,,,3,orange-peel,Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2019.0,Straw Yellow,Round
+36fec3ea-e183-491d-b65a-6c7ac90fafa5,Metodo Classico Pas Dosé,White,,Alto Adige,,5,grapefruit,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2016.0,Straw Yellow,Round
+3dd9219a-c64e-4c5a-a61b-aad6a417a69a,Brachetto Piemonte,Red,Brachetto,Piemonte,,3,"strawberry, red-cherry, raspberry",Sweet,Light,Aromatic,Flabby,Pale,Clear,2020.0,Ruby,Soft
+49e99d4d-3b1a-4bd3-82dc-0319128a930a,Gato Negro Merlot,Red,Merlot,Central Valley,MediumRed,4,"plum, cherry, blueberry, raisin, black-pepper",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2021.0,Purplish,Round
+32a9af10-6efe-41bc-8c6a-2d93fcbe88dd,Lambrusco Rosé Secco,Rose,Lambrusco,Emilia-Romagna,Sparkling,5,"raspberry, cherry",Bone Dry,Light,Aromatic,Crisp,Medium,Slight Haze,2020.0,Salmon,Not Present
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,White Blend,White,"Muscat Blanc, Sauvignon Blanc, Sémillon, Viognier, Chardonnay",California,,4,,,,,,,,,,
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,Sauvignon Blanc,White,Sauvignon Blanc,Marlborough,LightWhite,4,,Dry,Medium Full,,Crisp,Pale,Clear,,Straw Yellow,Soft
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,Pinot Grigio Trentino,White,Pinot Grigio,Trentino,LightWhite,4,,,,,,,,,,
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,Cabernet Sauvignon (815),Red,Cabernet Sauvignon,California,BoldRed,3,,Dry,Medium Full,Moderate,Smooth,Dark,Clear,,Purplish,Soft
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,Cabernet Sauvignon,Red,Cabernet Sauvignon,Napa Valley,BoldRed,4,,Dry,Full Bodied,Moderate,Fresh,Dark,,,Purplish,Round
+b61f83a4-48c5-49a5-aee5-72f7d5221b2a,Essensia Orange Muscat,White,Orange Muscat,Madera,Dessert,5,"apricot, fig",Very Sweet,Medium Full,Powerful,Fresh,Medium,Clear,,Amber,Not Present
+a8cc530e-e3fe-4a50-a043-a376ea599bf2,Nespolino Rubicone Sangiovese - Merlot,Red,"Merlot, Sangiovese",Rubicone,MediumRed,4,"blackcurrant, cherry, oak",Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Slight Haze,,Garnet,Dry Tannins
+a2b48f73-6857-4bcc-a590-6b1ca17dc885,Ginepreta,Red,"Cabernet Sauvignon, Merlot",Umbria,,4,"plum, red-cherry, blackberry",Dry,,Aromatic,Fresh,Dark,Clear,,Ruby,Round
+d48fd3bd-06e9-4368-97b9-aae545388325,Chardonnay,White,Chardonnay,Vin de Pays,RichWhite,3,"peach, jasmine",Dry,Medium Full,Aromatic,Tart,Medium,Slight Haze,,Gold,Dry Tannins
+0c0fb748-ee39-4687-b1a4-65044a48a02f,Vipra Rossa Umbria,Red,"Merlot, Sangiovese, Montepulciano",Umbria,MediumRed,3,"cherry, forest-floor",Dry,Medium Full,Aromatic,Fresh,Medium,Cloudy,,Purplish,Dry Tannins
+8d43f723-f1e6-42ae-9e08-484403d2f5a3,Châteauneuf-du-Pape,Red,"Grenache, Mourvedre, Cinsault, Shiraz/Syrah",Châteauneuf-du-Pape,,3,,Sweet,,Moderate,Crisp,Medium,Cloudy,,Ruby,Dry Tannins
+86ddb2c4-016f-47ed-8cf9-aa0a3564b7f8,Puntalice,Rose,,,,5,"mulberry, violet, rose",Bone Dry,Light,Aromatic,Crisp,,Clear,2021.0,,Not Present
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Omega Rosso,Red,"Refosco dal Peduncolo rosso, Merlot",Friuli-Venezia Giulia,MediumRed,3,"cherry, rose, tobacco",,Medium Full,Moderate,Fresh,Medium,Slight Haze,,Ruby,Round
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Chardonnay,White,Chardonnay,Südtirol - Alto Adige,RichWhite,3,,Dry,,Moderate,Crisp,Medium,Clear,,Greenish,
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Malvasia,White,Malvasia,Collio,SweetWhite,4,"orange, ginger, apple, peach, rocks",Bone Dry,Medium Full,Moderate,Fresh,Pale,Slight Haze,2019.0,Straw Yellow,Not Present
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,3,"peach, rocks, flint",Medium Sweet,,Moderate,Fresh,Pale,Clear,2019.0,Greenish,Not Present
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Perlé,White,Chardonnay,Trento,Sparkling,5,,Bone Dry,Medium Full,Aromatic,Smooth,Medium,Slight Haze,2015.0,Straw Yellow,Not Present
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Terrano,Red,Terrano,Carso,MediumRed,2,"smoke, grass",,,Aromatic,Crisp,Medium,Cloudy,,Ruby,Soft
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Malvasia legno,White,Malvasia,Carso,SweetWhite,3,,Bone Dry,Medium Full,Aromatic,Smooth,Medium,Slight Haze,,Gold,Not Present
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Malvasia,White,Malvasia,Friuli-Venezia Giulia,SweetWhite,4,,Bone Dry,Light,Low,Fresh,Pale,Slight Haze,,Straw Yellow,
+9a3cc655-c88e-4c1b-95e2-add7579ff4c2,Bollicina,White,,Carso,Sparkling,3,,Bone Dry,Light,Low,Fresh,Pale,Clear,,Greenish,Not Present
+45749629-7f44-49a1-92ef-ae32c959b290,Alberti 154 Malbec,Red,Malbec,Mendoza,BoldRed,4,"blueberry, hazelnut",Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,,Garnet,Round
+45749629-7f44-49a1-92ef-ae32c959b290,Traluna Toscana,Red,Sangiovese,Toscana,MediumRed,4,,Dry,Medium Full,Aromatic,Fresh,Dark,Slight Haze,2021.0,Ruby,Dry Tannins
+45749629-7f44-49a1-92ef-ae32c959b290,Chablis 'La Pierrelée',White,Chardonnay,Chablis,RichWhite,4,"acacia, lime",Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Mastrojanni Brunello di Montalcino,Red,Sangiovese,Brunello di Montalcino,,3,"fruits, spices, tabacco",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Mastrojanni Brunello di Montalcino,Red,Sangiovese,Brunello di Montalcino,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chance,Red,"Merlot, Cabernet Sauvignon, Sangiovese, Cabernet Franc",Maremma Toscana,,3,"smoke, black berries, leather, spieces, oak",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2005.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chance,Red,"Merlot, Cabernet Sauvignon, Sangiovese, Cabernet Franc",Maremma Toscana,,3,,Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2005.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pojega,Red,"corvonone, corvina, rondinella, merlot",Valpolicella Ripasso,,3,,Medium Sweet,Medium Full,Moderate,Smooth,Dark,Clear,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pojega,Red,"corvonone, corvina, rondinella, merlot",Valpolicella Ripasso,,3,,Medium Sweet,Medium Full,Moderate,Smooth,Dark,Clear,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Jesera Pinot Grigio,White,Pinot Grigio,Collio,,4,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Jesera Pinot Grigio,White,Pinot Grigio,Collio,,4,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brut Rosè ,Rose,"Pinot Noir, Chardonnay",,,3,,Dry,Light,Moderate,Fresh,Medium,Clear,2011.0,Salmon,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brut Rosè ,Rose,"Pinot Noir, Chardonnay",,,3,,Dry,Light,Moderate,Fresh,Medium,Clear,2011.0,Salmon,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Frascole Riserva,Red,"Chianti,  Cannaiolo",Chianti,,4,,Bone Dry,,,Crisp,Medium,Clear,2015.0,Purplish,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bolgheri+,Red,"Cabernet Sauvignon, Cabernet Franc",Bolgheri,,2,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2012.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bolgheri+,Red,"Cabernet Sauvignon, Cabernet Franc",Bolgheri,,2,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2012.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Vitovska,White,Vitovska,Carso-Kras,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2015.0,Amber,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Vitovska,White,Vitovska,Carso-Kras,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2015.0,Amber,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Imperial Brut,White,"Pinot Noir,  Chardonnay,  Pinot Meunier",Champagne,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Imperial Brut,White,"Pinot Noir,  Chardonnay,  Pinot Meunier",Champagne,,3,,Medium Sweet,Medium Full,Moderate,Fresh,Pale,Clear,,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Ater,Red,Primitivo,Primitivo di Manduria,,2,,Dry,Full Bodied,Moderate,Smooth,Dark,Slight Haze,2014.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Ater,Red,Primitivo,Primitivo di Manduria,,3,,Dry,Full Bodied,Moderate,Smooth,Dark,Slight Haze,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bakàn,Red,Montepulciano,Montepulciano d'Abruzzo ,,3,"basamic, spicy, fruity",Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montepulciano 60,Red,Montepulciano,Montepulciano d'Abruzzo ,,1,,Medium Sweet,Medium Full,Moderate,Smooth,Dark,Slight Haze,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rimosso,Rose,Lambrusco,Lambrusco di Sorbara,,5,,Bone Dry,Light,Aromatic,,Pale,,,Salmon,
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rimosso,Rose,Lambrusco,Lambrusco di Sorbara,,5,,Bone Dry,Light,Aromatic,,Pale,Cloudy,,Salmon,
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Sizzano,Red,,,,2,,Dry,Light,Moderate,Fresh,Medium,Clear,2013.0,Ruby,Hard
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pistus,Red,"Nerello Cappuccio, Nerello Mascalese",Etna,,3,,Dry,Light,Moderate,Fresh,Pale,Clear,2013.0,Purplish,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pistus,Red,"Nerello Cappuccio, Nerello Mascalese",Etna,,3,,Dry,Light,Moderate,Fresh,Pale,Clear,2013.0,Purplish,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo,Red,Nebbiolo,Barolo,,2,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2014.0,Garnet,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo,Red,Nebbiolo,Barolo,,2,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2014.0,Garnet,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Tramonto d’oca,Red,Petit Verdot,Maremma Toscana,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2010.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Tramonto d’oca,Red,Petit Verdot,Maremma Toscana,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2010.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Terrebianche col fondo,White,"Pignoletto, Trebbiano (Ugni Blanc)",Emilia,,4,,Bone Dry,Light,Moderate,Tart,Pale,Cloudy,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Terrebianche col fondo,White,"Pignoletto, Trebbiano (Ugni Blanc)",Emilia,,4,,Bone Dry,Light,Moderate,Tart,Pale,Cloudy,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pinot grigio,White,Pinot Grigio,Friuli Grave,,2,,Medium Sweet,Light,Moderate,Smooth,Medium,Clear,2010.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pinot grigio,White,Pinot Grigio,Friuli Grave,,2,,Medium Sweet,Light,Moderate,Smooth,Medium,Clear,2010.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rotari brut,White,Chardonnay,Trento,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,2013.0,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rotari brut,White,Chardonnay,Trento,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Pale,Clear,2013.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Scopello,Red,Frappato,Terre Siciliane,,3,,Dry,Light,Low,Fresh,Pale,Clear,2016.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lagrein,Red,Lagrein,Alto Adige,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lagrein,Red,Lagrein,Alto Adige,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Sancerre Rosè ,Rose,Pinot Noir,Sancerre,,3,,Dry,Light,Low,Fresh,Pale,Clear,2017.0,Pink,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Langhe Nebbiolo,Red,Nebbiolo,Langhe,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2015.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Langhe Nebbiolo,Red,Nebbiolo,Langhe,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2015.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Gavi Masera,White,Cortese,Gavi,,3,,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Guidalberto,Red,"Cabernet Sauvignon, Merlot, Sangiovese",Toscana,,4,,Dry,Medium Full,,Fresh,Dark,,,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montefalco Rosso,Red,"Sangiovese, Merlot, sagrantino",Montefalco,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montefalco Rosso,Red,"Sangiovese, Merlot, sagrantino",Montefalco,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cantine Povero Dolcetto Monferrato DOC,Red,Dolcetto,Monferrato,,3,,Dry,Light,Moderate,Smooth,Medium,Clear,2015.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Volevo’,White,Pecorino,Terre di Chieti,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lagrein Riserva,Red,Lagrein,,,4,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2011.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lagrein Riserva,Red,Lagrein,,,4,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2011.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Jurançon Sec,White,"Petit Manseng, Gros Manseng",Jurançon,,3,,Dry,Medium Full,Moderate,Smooth,Pale,Slight Haze,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Corvina ,Red,Corvina,Verona,,2,,Dry,Light,Moderate,Smooth,Medium,Clear,2017.0,Purplish,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Corvina ,Red,Corvina,Verona,,2,,Dry,Light,Moderate,Smooth,Medium,Clear,2017.0,Purplish,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Kerner,White,Kerner,,,4,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2018.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bitornino ,Red,"Sangiovese,  Cannaiolo,  Colorino,  Trebbiano,  Malvasia",Toscano Toscana,,5,,Bone Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bitornino ,Red,"Sangiovese,  Cannaiolo,  Colorino,  Trebbiano,  Malvasia",Toscano Toscana,,5,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Nagelforst 1268,White,,,,4,,Bone Dry,Light,Aromatic,Fresh,Pale,Clear,2016.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cuvée n 4,White,Chardonnay,Franciacorta,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2012.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cuvée n 4,White,Chardonnay,Franciacorta,,3,,Dry,Medium Full,Moderate,Tart,Pale,Clear,2012.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo Castiglione,Red,Nebbiolo,Barolo,,4,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti classico,Red,"Sangiovese,  Canaiolo",Chianti Classico,,3,,Dry,Light,Low,Fresh,Pale,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti classico,Red,"Sangiovese,  Canaiolo",Chianti Classico,,3,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,2016.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Ruche',Red,Ruche,Ruche di Castiglione Monferrato,,3,,Dry,Light,Low,Fresh,Medium,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Ruche',Red,Ruche,Ruche di Castiglione Monferrato,,3,,Dry,Medium Full,Moderate,Fresh,Medium,,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montepulciano d'Abruzzo Vallevo’,Red,Montepulciano,Montepulciano d'Abruzzo ,,3,,Dry,Light,Moderate,Fresh,Medium,Clear,2015.0,Purplish,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Nizza Titon,Red,Barbera,Barbera d'Alba,,4,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rustico,White,Glera (Prosecco),Prosecco,,4,,Dry,Light,Moderate,Fresh,Pale,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bolgheri Superiore Sondraia,Red,"Merlot, Cabernet Sauvignon, Cabernet Franc",Bolgheri Superiore,,3,,Bone Dry,Medium Full,Aromatic,Fresh,Medium,Slight Haze,,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bricco Riva Bianca ,Red,"Croatina,  Barbera,  Ughetta",Buttafuoco dell’Oltrepò PaveseOltrepò Pavese,,3,,Dry,Medium Full,Aromatic,Fresh,Dark,Cloudy,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Bricco Riva Bianca ,Red,"Croatina,  Barbera,  Ughetta",Buttafuoco dell’Oltrepò PaveseOltrepò Pavese,,3,,Dry,Medium Full,Moderate,Fresh,Dark,Slight Haze,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Oseleta",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Moderate,Smooth,Dark,Slight Haze,2014.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Oseleta",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Slight Haze,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Rossignola",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Slight Haze,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Rossignola",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Rondinella, Oseleta",Amarone della Valpolicella,,4,,Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2010.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Crognolo ,Red,Sangiovese,Toscano Toscana,,3,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2016.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Sanrosè ,Rose,Sangiovese,,,4,,Bone Dry,Light,Moderate,Tart,Pale,Clear,2017.0,Salmon,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montalcino ,Red,Sangiovese,Brunello di Montalcino,,4,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montalcino ,Red,Sangiovese,Brunello di Montalcino,,4,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2013.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Simbiotico,White,Chardonnay,Franciacorta,,3,,Dry,Medium Full,Moderate,Crisp,Pale,Slight Haze,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Graham's Block 7,Red,Pinot Noir,,,3,,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2013.0,Garnet,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Graham's Block 7,Red,Pinot Noir,,,3,,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2013.0,Garnet,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone Campo del Titari,Red,"Corvina, Corvinone, Rondinella",Amarone della Valpolicella,,4,,Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,2011.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Taurasi,Red,Domina,,,3,,Dry,Full Bodied,Moderate,Smooth,Dark,Clear,2009.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Olmera,Red,"Sauvignon Blanc, Friulano",Veneto,,3,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2016.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo,Red,Nebbiolo,Barolo,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rosso di Montalcino,White,Sangiovese,Rosso di Montalcino,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Friuli Grave Chardonnay,White,Chardonnay,Friuli Grave,,3,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rosso d’Asia,Red,"croatina,  ughetta di Solinga",No Appelation,,3,,Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rosso d’Asia,Red,"croatina,  ughetta di Solinga",No Appelation,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Clear,2013.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barbaresco,White,Nebbiolo,Barbaresco,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barbaresco,White,Nebbiolo,Barbaresco,,4,,Dry,Full Bodied,Moderate,Fresh,Medium,Clear,2014.0,Garnet,Hard
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Tignanello ,Red,,Toscano Toscana,,4,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Blanc del Noirs,White,Cabernet Sauvignon,,,2,,Dry,Light,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Fidelis,Red,Aglianico,Sannio,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2014.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pappolo Jeff Hansen,Red,"Cabernet Sauvignon, Merlot",Toscano Toscana,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il Mattaglio Blanc de Noirs,White,Pinot Noir,,,5,,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2012.0,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il Mattaglio Blanc de Noirs,White,Pinot Noir,,,5,,Bone Dry,Full Bodied,Aromatic,Tart,Medium,Clear,2012.0,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone della Valpolicella ,Red,,,,3,,Medium Sweet,Medium Full,Aromatic,Smooth,Dark,Cloudy,2015.0,Purplish,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Nebbiolo,Red,Nebbiolo,Langhe,,2,,Dry,Medium Full,Moderate,Crisp,Pale,Clear,2015.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti Classico,Red,"Sangiovese,  Cannaiolo,  Colorino",Chianti Classico,,3,,Bone Dry,Light,Moderate,Fresh,Medium,Clear,2015.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti Classico,Red,"Sangiovese,  Cannaiolo,  Colorino",Chianti Classico,,3,,Bone Dry,Light,Moderate,Fresh,Medium,Clear,2015.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pinot Grigio,White,Pinot Grigio,Friuli Aquileia,,3,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,2012.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo,Red,Nebbiolo,Barolo,,3,,Dry,Full Bodied,Moderate,Fresh,Medium,Clear,2012.0,Ruby,Hard
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Valdobbiadene superiore Rustico,White,,,,4,,Dry,Light,,Fresh,,,,,
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Elysian,White,Glera (Prosecco),Conegliano Valdobbiadene-Prosecco,,3,"pera bianca, camomilla, mandorle, erba fresca appena tagliata",Bone Dry,Light,Moderate,Crisp,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Elysian,White,Glera (Prosecco),Conegliano Valdobbiadene-Prosecco,,3,,Medium Sweet,Light,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Oseleta",Amarone della Valpolicella,,3,"frutto maturo, spezie",Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2014.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Corvinone, Rondinella, Oseleta",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2014.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Gramigna Imperial,White,,,,3,,Dry,Light,Moderate,Fresh,Pale,Clear,2013.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montalcino,Red,Sangiovese,Brunello di Montalcino,,4,,Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2003.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montessu,Red,"Carignan (Carinena), Shiraz, Cabernet Sauvignon, Cabernet Franc, Merlot",Isola dei Nuraghi,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montalcino Vigna Manapetra,Red,Sangiovese,Brunello di Montalcino,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2007.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montalcino,Red,Sangiovese,Brunello di Montalcino,,3,,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barbera d’Alba,Red,Barbera,Alba,,4,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cabernet Sauvignon ,Red,Cabernet Sauvignon,Napa Valley,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2013.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cerasuolo di Vittoria,Red,"Frappato, ""Nero dAvola""",Cerasuolo di Vittoria,,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2013.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cerasuolo di Vittoria,Red,"Frappato, ""Nero dAvola""",Cerasuolo di Vittoria,,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2013.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Face Nord,White,"Chardonnay,  Pinot Noir",Champagne,,4,,Bone Dry,Medium Full,Aromatic,Tart,Pale,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Sori Tildin,Red,Nebbiolo,Barbaresco,,5,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2013.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Terriero ,White,Glera (Prosecco),Prosecco Treviso,,3,"pera bianca, pesca gialla, albicocca",Dry,Light,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Terriero ,White,Glera (Prosecco),Prosecco Treviso,,4,,Dry,Light,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti classico ,Red,"Sangiovese, Canaiolo",Chianti Classico,,3,,Dry,Medium Full,Moderate,Crisp,Pale,Clear,2016.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lambrusco Rosè ,Rose,Lambrusco Sorbara,,,5,"lampone, fragoline di bosco, melograno, rosa antica",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Salmon,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Lambrusco Rosè ,Rose,Lambrusco Sorbara,,,5,,Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Salmon,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Etna Bianco ,White,Carricante,Etna,,3,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,2017.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il Mattaglio Blanc de Blancs,White,Chardonnay,,,5,,Bone Dry,Medium Full,,Crisp,,,2013.0,,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il Mattaglio Blanc de Blancs,White,Chardonnay,,,5,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2013.0,Ruby,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Falconero Zero,Red,,,,4,,Bone Dry,Light,Moderate,Crisp,Dark,Clear,2016.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Montepulciano d’Abruzzo,Red,Montepulciano,Montepulciano d'Abruzzo ,,3,,Medium Sweet,Light,Low,Smooth,Medium,Clear,2016.0,Purplish,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,La Cuvee ,White,"Pinot Noir,  Chardonnay,  Pinot Meunier",Champagne,,3,,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Guado al Tasso,Red,"Cabernet Sauvignon,  Merlot,  Cabernet Franc,  Petit Verdot",Bolgheri,,4,,Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2015.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chianti classico ,Red,"Sangiovese,  Canaiolo",Chianti Classico,,4,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2011.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Friulano,White,Friulano,Friuli Colli Orientali,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2017.0,straw yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Grauvernatsch,Red,Schiava,Alto Adige,,3,,Dry,Very Light,Low,Crisp,Pale,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Le Volte,Red,"Merlot,  Cabernet Sauvignon,  Sangiovese",Toscano Toscana,,3,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2016.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Marc'Aurelio,Red,Lambrusco,Emilia,Sparkling,4,,Bone Dry,Light,Aromatic,Crisp,Dark,Clear,2018.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone Costasera,Red,"Corvina, Rondinella, Molinara",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Clear,2012.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Aluvional La Cosulta,Red,Malbec,"Uco Valley, Mendoza",,4,,Dry,Medium Full,Aromatic,Fresh,Dark,Clear,2013.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Le Vigne Di Eli Etna Rosso,Red,"Nerello Cappuccio, Nerello Mascalese",Etna,,3,,Dry,Medium Full,Moderate,Smooth,Medium,Clear,2015.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Fede,Red,Barbera,Barbera d'Asti,,3,,Dry,Light,Moderate,Fresh,Medium,Clear,2017.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo Monvigliero,Red,Nebbiolo,Barolo,,4,,Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2004.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barbaresco Bernadot,Red,Nebbiolo,Barbaresco,,3,,Dry,Medium Full,,Crisp,Medium,Clear,2014.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brut Rose’,Rose,"Chardonnay, Pinot Nero",Franciacorta,,3,,Dry,Light,Moderate,Fresh,Salmon,Clear,,Pink,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Amarone,Red,"Corvina, Rondinella",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Clear,2013.0,Garnet,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Pian delle Masche Dolcetto d'Alba,Red,Dolcetto,Dolcetto d'Alba,MediumRed,4,,Dry,Medium Full,,Crisp,Medium,Clear,,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Brunello di Montlcino Mozard,Red,Sangiovese,Brunello di Montalcino,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2012.0,Ruby,Round
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Prosecco Millesimato,White,Glera (Prosecco),Conegliano Valdobbiadene-Prosecco,,3,,Dry,Light,Moderate,Fresh,Pale,Clear,2016.0,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Arns Cabernet Sauvignon ,Red,Cabernet Sauvignon,Napa,,4,,Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2013.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il mattaglio brut,White,"Chardonnay, Pinot Noir,  Pinot Meunier",,,5,,Bone Dry,Medium Full,Powerful,Crisp,Pale,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Il mattaglio brut,White,"Chardonnay, Pinot Noir,  Pinot Meunier",,,5,,Bone Dry,Medium Full,Powerful,Crisp,Pale,Clear,,Straw Yellow,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Flor de Muga ,Rose,Grenache (Garnacha),Rioja,,3,,Medium Sweet,Light,Low,Smooth,Pale,Clear,2018.0,Pink,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Poggio badiola,Red,,,,2,,Dry,Light,,Fresh,Medium,Slight Haze,2016.0,Ruby,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Chablis Saint Martin,White,Chardonnay,Chablis,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2017.0,Gold,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Nero d'Avola Lorlando,Red,"""Nero dAvola""",Terre Siciliane,,3,,Dry,Medium Full,Moderate,Fresh,Dark,Clear,2017.0,Ruby,Soft
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Cirò,Red,Gaglioppo,Cirò,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2012.0,Garnet,Dry Tannins
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barig,White,,,,4,,Medium Sweet,,,Smooth,Medium,Slight Haze,2019.0,Brownish,Not Present
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Barolo Baccà,Red,Nebbiolo,Barolo,,3,,Dry,Full Bodied,Moderate,Fresh,Medium,Clear,2012.0,Ruby,Hard
+f8c400a6-ded1-40b8-95d2-a263d05c30ce,Rivale,Red,"Sangiovese,  Petit Verdot",Toscano Toscana,,3,,Dry,Full Bodied,Moderate,Fresh,Dark,Clear,2010.0,Garnet,Dry Tannins
+876b7023-bbf0-4bd8-a341-61ae5bc4b38f,Signoria Prosecco Extra Dry,White,,,,2,"apple, Agrumi ",Bone Dry,Medium Full,Moderate,Fresh,Pale,Clear,,Straw Yellow,Not Present
+876b7023-bbf0-4bd8-a341-61ae5bc4b38f,Kerner,White,Kerner,Vigneti delle Dolomiti,,4,"apple, Lieviti, Agrumi, Minerale, Tropicale",Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,,Greenish,Not Present
+4e4e45dd-0473-45c3-be2f-45b33d075f88,Roger et Didier Raimbault Vieilles Vignes Sancerre,Red,Pinot Noir,Sancerre,LightRed,4,"cherry, pepper",Medium Sweet,Light,Aromatic,Smooth,Dark,Clear,2018.0,Ruby,Soft
+9c85a219-a94e-4b78-b300-ea65e52e9c6e,Chardonnay,White,Chardonnay,California,RichWhite,4,"lychee, guava",Dry,Full Bodied,Aromatic,Smooth,Medium,Clear,2021.0,Gold,Round
+990f0572-c5e7-47ec-ba20-141ab6058369,Terrano,Red,Terrano,Carso,MediumRed,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,,Ruby,Soft
+990f0572-c5e7-47ec-ba20-141ab6058369,Rosso Carso Črnina,Red,Refosco,Carso,MediumRed,3,"strawberry, cranberry, cherry, raspberry",Dry,Medium Full,Aromatic,Fresh,Medium,Slight Haze,,Purplish,Soft
+990f0572-c5e7-47ec-ba20-141ab6058369,Omega Rosso,Red,"Refosco dal Peduncolo rosso, Merlot",Friuli-Venezia Giulia,MediumRed,3,"rose, mulberry, cherry",Medium Sweet,Medium Full,Aromatic,Smooth,Dark,Slight Haze,,Ruby,Round
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,le vigne di zamò merlot 50 anni,Red,,,,3,hay,,,Aromatic,,,,2015.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Malvasia Komjanc,White,,,,3,,,,Aromatic,,Medium,,2021.0,Straw Yellow,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Pinot nero,Red,,,,3,,,,,,,,2019.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Cabernet Franc,Red,,,,4,"red-cherry, hay, medicinal",,Medium Full,Moderate,,Medium,Slight Haze,2019.0,Ruby,Dry Tannins
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Sinefinis,Red,,,,2,cherry,Medium Sweet,Light,Moderate,Crisp,Pale,Clear,2016.0,Straw Yellow,Not Present
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Bratje Komjanc,White,,,,3,,,,,,,,2020.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Fumin la griffe,Red,,,,3,,,,Aromatic,,Medium,,2018.0,Garnet,Round
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Daphne,White,,,,2,,,,Low,,,,2021.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Troj,Red,"Merlot, Refosco dal Peduncolo rosso, Schioppettino",Colli Orientali del Friuli,,4,,,Medium Full,Aromatic,,Dark,Clear,2018.0,Ruby,Dry Tannins
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Traminer Komjanc,White,,,,3,,,,,,,,,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Merlot  le vigne di zamo,Red,,,,1,,,,Moderate,,Medium,,2020.0,Ruby,Round
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Syrah non expedit,Red,,,,3,,,,,,,,,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Pignolo,Red,Pignolo,Colli Orientali del Friuli,,3,,,Full Bodied,Aromatic,,Dark,Slight Haze,2013.0,Ruby,Dry Tannins
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,No Land Vineyard,White,,,,3,pineapple,Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Clear,,Gold,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Nus Malvoisie,White,Pinot Grigio,Valle d'Aosta,LightWhite,2,,,Medium Full,Moderate,Fresh,,,2022.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,le vigne di zamò ronco dei roseti,Red,,,,4,banana,,,Aromatic,,Medium,,2018.0,Garnet,Round
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Pinot grigio,Red,,,,2,,Medium Sweet,Light,Moderate,,Pale,Clear,2020.0,Gold,Not Present
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Friulano,White,Friulano,Colli Orientali del Friuli,,2,,,,Aromatic,,,,2021.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Sottocastello Bianco,White,"Chardonnay, Tocai Friulano",Colli Orientali del Friuli,,4,,,,Aromatic,,Medium,Clear,2018.0,Straw Yellow,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Merlot dedica Komjanc,Red,,,,4,,,,Aromatic,,Dark,,2018.0,Garnet,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Canto x,Red,,,,2,,,,,Fresh,,,,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Petite arvine,White,,,,2,,,,,Fresh,,,,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,le vigne di zamo refosco,Red,,,,1,,,,Moderate,,Dark,,2018.0,Ruby,Soft
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Collio bianco riserva,Red,,,,3,,,Medium Full,Aromatic,,Medium,Clear,2017.0,Greenish,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Prieuré Chambave Moscato Passito,White,Moscato Bianco,Valle d'Aosta,Dessert,2,,Sweet,,Aromatic,,Dark,,2019.0,Gold,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Pinot nero dedica Komjanc,Red,,,,4,,,,Aromatic,,Medium,,2018.0,Ruby,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Chambave Muscat,White,Muscat Blanc,Valle d'Aosta,SweetWhite,3,,,,,,,,2020.0,,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Ribolla Gialla,White,Ribolla Gialla,Colli Orientali del Friuli,,2,,,,Moderate,Crisp,Pale,,2021.0,Straw Yellow,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,"""PG Rosa"" Pinot grigio",White,Pinot Grigio,,,2,,Dry,Light,Aromatic,Fresh,Dark,Clear,2020.0,Amber,Soft
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,souvignon komjanc,White,,,,2,,Medium Sweet,,Aromatic,,Medium,,2021.0,Straw Yellow,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Ribolla gialla,Red,,,,2,banana,Medium Sweet,Light,Moderate,Crisp,Pale,Clear,2021.0,Straw Yellow,Not Present
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Cabernet Franc,Red,Cabernet Franc,Colli Orientali del Friuli,MediumRed,2,ball-pepper,,Full Bodied,Powerful,,Dark,Clear,2018.0,Ruby,Dry Tannins
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Rebula,Red,,,,2,,Dry,Light,Moderate,,Medium,Clear,2018.0,Straw Yellow,
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Friulano,Red,,,,1,,Dry,Light,Low,,Medium,Clear,2020.0,Straw Yellow,Soft
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Verduzzo secco,White,,,,3,,Dry,Light,Aromatic,Crisp,Medium,Clear,2019.0,Brownish,Soft
+ecc462e1-5041-43ca-94c3-c2bfc9b3215e,Petite arvine nuance,White,,,,2,,,,,,,,2020.0,,
+579b62d7-7cc4-4156-9e75-342802319780,Rolha,Red,,,,2,,Sweet,,Moderate,Smooth,Medium,Slight Haze,,Tawny,
+f44adf67-90b4-4b33-ac2d-218090cba75a,Asti Dolce Villa Veroni,White,,,Sparkling,4,,,,,,,,,,
+fb9faae5-b479-4a1a-af12-6ed14e5f9d3b,Shiraz,Red,Shiraz/Syrah,McLaren Vale,BoldRed,5,,Medium Sweet,,,,Pale,,1994.0,Garnet,Round
+b2dd097f-fad9-4daa-9218-d21128ec9ab9,Bricco delle Ciliegie Arneis Roero,White,Arneis,Roero,,5,,,,,,,,,,
+4313b57d-e3f7-495e-bcfd-ff5c1bf15fcc,Rock,Red,"Aleatico, Nero di Troia",Puglia,,5,,Dry,Very Light,Moderate,Smooth,Pale,Clear,,Ruby,Soft
+4313b57d-e3f7-495e-bcfd-ff5c1bf15fcc,Les petits buis,Red,"Grenache, Shiraz/Syrah, Carignan",,,5,,Dry,Medium Full,Aromatic,Fresh,Dark,Slight Haze,,Purplish,Dry Tannins
+4313b57d-e3f7-495e-bcfd-ff5c1bf15fcc,Le Bosquet Merlot Pays d'Oc 2018,Red,Merlot,Pays d'Oc,MediumRed,4,blackberry,Medium Sweet,Full Bodied,Powerful,Crisp,Medium,Slight Haze,2018.0,Ruby,Hard
+4313b57d-e3f7-495e-bcfd-ff5c1bf15fcc,P’tit Piaf Rouge,Red,"Merlot, Carignan",Côtes Catalanes,MediumRed,5,,Medium Sweet,Light,,Crisp,Medium,Slight Haze,,Ruby,Dry Tannins
+2ae69fac-d491-412f-8164-ccaf59a230c2,Pignolo,Red,Pignolo,Colli Orientali del Friuli,,4,honey,Very Sweet,Medium Full,,Fresh,,Clear,,Ruby,Soft
+2ae69fac-d491-412f-8164-ccaf59a230c2,Ribolla Gialla,White,Ribolla Gialla,Colli Orientali del Friuli,,5,,Dry,,,Fresh,,Cloudy,,Gold,
+2ae69fac-d491-412f-8164-ccaf59a230c2,Ronco del Balbo Merlot,Red,Merlot,Colli Orientali del Friuli,MediumRed,4,"raspberry, blackberry",Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Clear,,Ruby,Round
+2ae69fac-d491-412f-8164-ccaf59a230c2,Ronco del Balbo Merlot,Red,Merlot,Colli Orientali del Friuli,MediumRed,5,,Very Sweet,Full Bodied,,Fresh,Dark,Cloudy,,Ruby,
+2ae69fac-d491-412f-8164-ccaf59a230c2,Ronco del Balbo Merlot,Red,Merlot,Colli Orientali del Friuli,MediumRed,5,,Sweet,Full Bodied,,Fresh,Dark,Cloudy,,Ruby,
+2ae69fac-d491-412f-8164-ccaf59a230c2,Ronco del Balbo Merlot,Red,Merlot,Colli Orientali del Friuli,MediumRed,5,,Very Sweet,Full Bodied,,Fresh,Dark,Cloudy,,Ruby,
+2ae69fac-d491-412f-8164-ccaf59a230c2,Perbacco Nebbiolo,Red,Nebbiolo,Langhe,BoldRed,5,sour-cherry,Bone Dry,Full Bodied,Powerful,Smooth,Medium,Slight Haze,2018.0,Ruby,Round
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Vitovska legno,White,Vitovska,Carso,SweetWhite,4,,,,,,Medium,Clear,,Gold,
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Vitovska legno,White,Vitovska,Carso,SweetWhite,4,,Dry,Medium Full,Moderate,Fresh,Medium,Cloudy,,Gold,Dry Tannins
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Vigna petrussa Rinera,Red,,,,4,,Dry,Medium Full,Aromatic,Smooth,Dark,Clear,,Ruby,Round
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Malvasia,White,Malvasia,Carso,SweetWhite,4,,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,,Gold,Not Present
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Cabernet d'Anjou,Rose,Cabernet Sauvignon,Cabernet d'Anjou,Rosé,4,cranberry,Dry,Light,Moderate,Smooth,Medium,Cloudy,,Salmon,Soft
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Cabernet d'Anjou,Rose,Cabernet Sauvignon,Cabernet d'Anjou,Rosé,3,"grapefruit, banana",,,Powerful,Tart,,Cloudy,2016.0,,
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Bollicina,White,,Carso,Sparkling,3,,Dry,Light,Low,Fresh,Pale,Clear,,Greenish,Not Present
+09f6ca6e-905f-4afd-bab2-d928fe046f18,Refosco dal Peduncolo Rosso Riserva,Red,Refosco dal Peduncolo rosso,Friuli-Venezia Giulia,,4,,,,,,,,,,
+8764df8a-0919-433c-beab-053a9c12f402,Nero d'Avola Sicilia,Red,"""Nero dAvola""",Terre Siciliane,BoldRed,5,,Bone Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,2020.0,Ruby,Hard
+457b85f5-7b46-4f52-85b9-59acb549b9a2,Limniona Rosé,Rose,Limniona,Tyrnavos,Rosé,4,"strawberry, grapefruit, lychee, guava",Dry,Medium Full,Powerful,Crisp,Pale,Clear,2020.0,Pink,Soft
+457b85f5-7b46-4f52-85b9-59acb549b9a2,Broquel Malbec,Red,Malbec,Mendoza,BoldRed,4,"redcurrant, oak, vanilla, coconut, pepper",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Purplish,Round
+457b85f5-7b46-4f52-85b9-59acb549b9a2,Escapades,White,"Cabernet Sauvignon, Shiraz/Syrah, Malbec",,MediumRed,4,"blueberry, black-plum, blackcurrant, prune, potting-soil, pepper",Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2015.0,Ruby,Round
+457b85f5-7b46-4f52-85b9-59acb549b9a2,ATMA,White,"Xinomavro, Mandilaria",,MediumRed,3,"black-plum, cinnamon, dried-blackberry, dried-cranberry, marmalade, walnut, truffle, oak, prune",Dry,Medium Full,Moderate,Smooth,Medium,Slight Haze,2014.0,Tawny,Round
+457b85f5-7b46-4f52-85b9-59acb549b9a2,Refosco,Red,,,,5,"red-cherry, black-plum, blackcurrant, blackberry, blueberry, red-pepper, chocolate, vanilla",Dry,,Aromatic,Smooth,,Clear,2013.0,,Soft
+457b85f5-7b46-4f52-85b9-59acb549b9a2,Elevation Sauvignon Blanc,White,Sauvignon Blanc,Marlborough,LightWhite,4,"grapefruit, mango, lychee, passion-fruit, guava",Dry,,Aromatic,Fresh,,Clear,2020.0,,Not Present
+776b5af7-bb8a-484a-bddb-dadf5dab4621,La Joie,Red,"Cabernet Sauvignon, Cabernet Franc, Malbec, Merlot, Petit Verdot",Sonoma County,,5,,Sweet,Heavy,,,,,,,Hard
+776b5af7-bb8a-484a-bddb-dadf5dab4621,Muscat de Beaumes-de-Venise,White,Muscat Blanc,Beaumes-de-Venise,Dessert,5,,,,,,,,2020.0,,
+776b5af7-bb8a-484a-bddb-dadf5dab4621,Muscat de Beaumes-de-Venise,White,Muscat Blanc,Beaumes-de-Venise,Dessert,5,"orange-peel, redcurrant",Sweet,Light,Powerful,Crisp,Medium,Clear,2019.0,Amber,Not Present
+776b5af7-bb8a-484a-bddb-dadf5dab4621,Re Rosso,Red,"Primitivo, Negroamaro",Salento,,5,blackcurrant,Medium Sweet,Heavy,Aromatic,Crisp,Dark,Cloudy,,Ruby,Hard
+e2723dcb-0b44-477f-bf74-678640f5c06d,Terrano,Red,Terrano,Carso,,5,"black-plum, grape, vinegar, balsamic, cat-pee, manure, wet-dog, cardboard, tobacco, mushroom, lager, meaty, marzipan, clay, gravel, petroleum, kerosene, petrol, fennel, jalapeno, wet-leaf, blossom, fruit-cake, bubblegum, boysenberry",Bone Dry,Heavy,Aromatic,Tart,Dark,Cloudy,,Purplish,Hard
+f58879a3-ada7-4ca1-a689-3ffdb734e630,Morellino di Scansano,Red,Sangiovese,Morellino di Scansano,MediumRed,5,,Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Cloudy,,Purplish,Round
+f58879a3-ada7-4ca1-a689-3ffdb734e630,Morellino di Scansano,Red,Sangiovese,Morellino di Scansano,MediumRed,4,,Dry,Full Bodied,Aromatic,Fresh,Dark,Cloudy,,Purplish,Dry Tannins
+9b460857-eabd-47a0-a876-2fb9a3c9946e,Chardonnay Santa Barbara County,White,Chardonnay,Santa Barbara County,RichWhite,4,,,,,,,,,,
+c26b57e2-bb71-43ca-b5bd-361867658d42,Les Terrasses Côtes du Roussillon Villages,Red,"Shiraz/Syrah, Grenache, Mourvedre",Côtes du Roussillon Villages,,3,"apple, cherry, lemon",Medium Sweet,Very Light,Low,Fresh,,Clear,,,Round
+36b67621-8e5f-42db-ba2c-43a3eb2855cc,New Wine,Rose,Gewurztraminer,Collio Goriziano,,4,frutta e sottobosco,Medium Sweet,Light,Aromatic,Fresh,Medium,Clear,1956.0,Greenish,Round
+5f448912-9792-4679-9410-c6f786d1cf18,Cordero con piel de Lobo,Red,,,,4,,,Medium Full,Moderate,Crisp,Dark,Clear,,Purplish,Dry Tannins
+4c0b31a0-1287-4efc-b24c-fe850084eafd,Special Reserve Port,Red,"Tinta Barroca, Touriga Nacional, Touriga Franca",Porto,Dessert,4,,Dry,Heavy,Powerful,Crisp,Dark,Cloudy,,Purplish,Dry Tannins
+4c0b31a0-1287-4efc-b24c-fe850084eafd,Chianti,Red,"Malvasia, Trebbiano, Canaiolo Nero, Cabernet Sauvignon, Cabernet Franc, Merlot, Sangiovese",Chianti,,5,,Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,,Ruby,Dry Tannins
+cabb87a0-6498-438a-beb7-676f72bddd09,Acrobat chardonnay,White,Chardonnay,Willamette Valley,RichWhite,3,apple,Medium Sweet,Medium Full,Low,Tart,Medium,Cloudy,2019.0,Greenish,Not Present
+cabb87a0-6498-438a-beb7-676f72bddd09,Sauvignon Blanc,White,,,,4,"gooseberry, lime",Sweet,Light,Low,Fresh,Pale,Slight Haze,2019.0,Greenish,Not Present
+cabb87a0-6498-438a-beb7-676f72bddd09,Pinot Noir,Red,Pinot Noir,Sonoma Coast,LightRed,4,"redcurrant, strawberry, blackcurrant, blackberry",Dry,Medium Full,Aromatic,Smooth,Medium,Cloudy,,Garnet,Round
+51d049b3-68f1-483d-a43b-8d1c93cd5c3c,Primitivo,Red,Primitivo,Salento,BoldRed,4,,Medium Sweet,Full Bodied,Moderate,,Medium,Slight Haze,,Ruby,
+fa623b71-bd8f-47f1-b62b-4a83e6432e02,Nectar dei,Red,"Cabernet Sauvignon, Merlot, Petit Verdot, Shiraz/Syrah",Maremma Toscana,BoldRed,4,"rose, violet, blackberry, pepper, marmalade, forest-floor, red-cherry",Bone Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Ruby,Dry Tannins
+73923070-fce4-46c0-8d85-a99527e73d02,Trebbiano D'Abruzzo,White,"Trebbiano, ""Trebbiano DAbruzzo""",,LightWhite,4,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2021.0,Straw Yellow,Soft
+73923070-fce4-46c0-8d85-a99527e73d02,Sandgrube 13 Grüner Veltliner,White,Grüner Veltliner,Kremstal,LightWhite,4,,Dry,Light,Moderate,Crisp,Medium,Clear,2021.0,Straw Yellow,Soft
+20e0b694-84a5-4f11-9191-598f924c2947,Morellino di Scansano 2021,Red,Sangiovese,Morellino di Scansano,MediumRed,1,"cherry, blackberry, violet, tobacco, vanilla",Dry,Medium Full,Aromatic,Tart,Dark,Slight Haze,2021.0,Ruby,Soft
+821b2cc2-7e35-4c18-a23b-115c064d740e,Maruja Manzanilla pasada,White,Palomino,Manzanilla-Sanlucar de Bsrrameda,RichWhite,4,"orange, apricot, peach",Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2020.0,Brownish,Not Present
+659431a3-6d92-4025-9e53-0ad2134124fb,La Boiseliere Medium Dry Red,Red,,Vin de France,,3,cranberry,Medium Sweet,Medium Full,Aromatic,Crisp,,Cloudy,,Ruby,Soft
+d7fffb49-a1f3-433c-a556-a3bc015e7e0f,Cabernet Franc,Red,Cabernet Franc,Colli Orientali del Friuli,MediumRed,3,,Medium Sweet,Medium Full,Aromatic,Tart,Dark,Cloudy,,Purplish,Dry Tannins
+d7fffb49-a1f3-433c-a556-a3bc015e7e0f,La Rosina Barbera d'Alba Superiore,Red,Barbera,Barbera d'Alba,MediumRed,4,"redcurrant, cranberry, raspberry",Dry,Full Bodied,Aromatic,Tart,Dark,Clear,,Purplish,Soft
+d7fffb49-a1f3-433c-a556-a3bc015e7e0f,Selengaia,Red,,Chianti,BoldRed,4,blackcurrant,Dry,Full Bodied,Aromatic,Fresh,Dark,Slight Haze,2016.0,Purplish,Dry Tannins
+d7fffb49-a1f3-433c-a556-a3bc015e7e0f,Ramandolo,Rose,,,,3,"apricot, sultana, caramel, honey",Sweet,Medium Full,Aromatic,Smooth,Medium,Clear,2013.0,Copper,Not Present
+d7fffb49-a1f3-433c-a556-a3bc015e7e0f,Pinot bianco,White,,,,3,wet-leaves,Medium Sweet,Medium Full,Aromatic,Crisp,Pale,Clear,2012.0,Gold,Not Present
+deb9001b-2e33-42ca-8953-35c11e0ed824,Chianti,Red,,,,4,"cherry, blueberry, bramble",Bone Dry,,Aromatic,Fresh,Medium,Clear,2015.0,Purplish,Round
+a682d322-8cff-4f92-aaa9-c7380de20f10,Tignanello,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot, Sangiovese",Toscana,,5,,Medium Sweet,Full Bodied,Aromatic,Smooth,,Slight Haze,,,Round
+2587fe2b-2481-4150-ae14-99ed61c218ac,Why not? PREMIUM zin,Red,,,,3,"oak, cherry, peach",Dry,Medium Full,Aromatic,Fresh,Dark,Cloudy,,Purplish,Soft
+7c790e8b-b289-4190-a624-83db79de07af,Sierra Foothills Zinfandel,Red,Zinfandel,Amador County,MediumRed,5,nectarine,Sweet,Medium Full,Moderate,Crisp,Pale,Slight Haze,,Purplish,Dry Tannins
+7ed7fb0c-884d-46bf-a14a-205474a0949d,Bardolino,Red,,,,2,,Dry,Light,,Fresh,,Slight Haze,2019.0,,
+7ed7fb0c-884d-46bf-a14a-205474a0949d,Bordeaux blanc,White,,,,3,"mango, grapefruit, lemon, melon, grass",,Very Light,Aromatic,Tart,,Clear,2020.0,,
+7ed7fb0c-884d-46bf-a14a-205474a0949d,Valpolicella,White,,,,3,"redcurrant, hay, plum",Dry,,Aromatic,Tart,Medium,Slight Haze,2019.0,Ruby,Dry Tannins
+c60f0ff1-ed30-4df6-a612-b9ae7ca0814b,Vitovska,White,Vitovska,,,3,,Dry,Medium Full,Aromatic,Crisp,Dark,Slight Haze,2013.0,Greenish,
+c60f0ff1-ed30-4df6-a612-b9ae7ca0814b,Chablis Saint Martin,White,Chardonnay,Chablis,,3,,Dry,Medium Full,Moderate,Fresh,Medium,Clear,2017.0,Gold,Not Present
+c60f0ff1-ed30-4df6-a612-b9ae7ca0814b,Amarone,Red,"Corvina, Corvinone, Rondinella, Oseleta",Amarone della Valpolicella,,3,,Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2014.0,Ruby,Round
+ba14097a-c2ac-4d16-a8b9-a237bdc73592,Red,Red,"Cabernet Sauvignon, Merlot",Alexander Valley,,4,,Sweet,Medium Full,Moderate,Smooth,Medium,Slight Haze,,Ruby,Dry Tannins
+ce7409cd-2e73-490d-adee-95ed9e8d7b75,Aziano Chianti Classico,Red,Sangiovese,Chianti,MediumRed,5,"black-cherry, blackcurrant, raisin, black-pepper, earth, tobacco",Dry,Full Bodied,Aromatic,Smooth,Dark,Slight Haze,,Purplish,Round
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,3,,Dry,Medium Full,Low,Fresh,Pale,Slight Haze,,Straw Yellow,Soft
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Terrano,Red,Terrano,Carso,MediumRed,2,,Dry,,Moderate,Tart,Medium,Cloudy,,Ruby,Soft
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Malvasia legno,White,Malvasia,Carso,SweetWhite,4,,Bone Dry,Medium Full,,Fresh,Pale,Clear,,Straw Yellow,Round
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Merlot,Red,Merlot,Colli Orientali del Friuli,MediumRed,5,peach,Medium Sweet,Full Bodied,Aromatic,,Pale,Slight Haze,,Ruby,
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Bollicina,White,,Carso,Sparkling,5,,,,Aromatic,,,Slight Haze,2015.0,Gold,
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Franciacorta,White,,,,4,"fig, nectarine",Bone Dry,Medium Full,Moderate,Tart,Pale,Slight Haze,2019.0,Greenish,Round
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Franciacorta,White,,,,3,"peach, plum, bubblegum",,Medium Full,,,,,2018.0,,
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Franciacorta,White,,,,5,peach,Medium Sweet,Full Bodied,Powerful,Flabby,Dark,Slight Haze,2022.0,Brownish,Dry Tannins
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Franciacorta,White,,,,5,,Very Sweet,,Powerful,,,Cloudy,,,
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Syrah,Red,Shiraz/Syrah,Napa Valley,BoldRed,4,,Medium Sweet,Medium Full,Moderate,,,Cloudy,2018.0,Ruby,
+bc8f3005-c2c6-4277-9fd7-340248f4e7ec,Natum Pecorino,White,Pecorino,Terre di Chieti,,4,,Dry,Medium Full,Aromatic,Fresh,Pale,Clear,,Straw Yellow,Soft
+7e32fee4-f7c4-4600-8a34-db7801ac79d5,Trento Doc,Red,,,Sparkling,5,,Bone Dry,Light,Moderate,Crisp,,Clear,2019.0,Greenish,Not Present
+7e32fee4-f7c4-4600-8a34-db7801ac79d5,Pas Dosé,White,"Chardonnay, Pinot Nero",,Sparkling,5,"peach, orange",Medium Sweet,Medium Full,Aromatic,Crisp,Pale,Slight Haze,,Greenish,Not Present
+7e32fee4-f7c4-4600-8a34-db7801ac79d5,Brut (Carte Jaune) Champagne,White,"Chardonnay, Pinot Noir, Pinot Meunier",Champagne,Sparkling,5,,Medium Sweet,,Moderate,Crisp,Pale,Slight Haze,,Gold,
+13016d41-00bd-411c-83f5-2b95691696b7,Ribolla gialla,White,,,,2,,Medium Sweet,,Moderate,Fresh,Medium,Slight Haze,2019.0,Greenish,
+13016d41-00bd-411c-83f5-2b95691696b7,Iridium,White,,Venezia Giulia,,3,"cheese, wet-wool",Dry,Medium Full,Powerful,Crisp,Dark,Slight Haze,,Gold,
+13016d41-00bd-411c-83f5-2b95691696b7,Schioppettino,White,,,,4,"blackcurrant, sour-cherry, kerosene, black-pepper, forest-floor, wet-dog",Bone Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2016.0,Ruby,Round
+13016d41-00bd-411c-83f5-2b95691696b7,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,4,"pear, flint",Dry,Medium Full,Aromatic,Tart,Medium,Slight Haze,,Straw Yellow,
+13016d41-00bd-411c-83f5-2b95691696b7,Vitovska acciaio,White,Vitovska,Carso,SweetWhite,4,"peach, clay, wet-gravel",Dry,Light,Aromatic,Tart,Medium,Slight Haze,,Straw Yellow,
+13016d41-00bd-411c-83f5-2b95691696b7,Terrano,Red,Terrano,Carso,MediumRed,2,"cherry, grapefruit, elderflower, grass, potting-soil",Bone Dry,Full Bodied,Moderate,Tart,Dark,Cloudy,,Purplish,Dry Tannins
+13016d41-00bd-411c-83f5-2b95691696b7,Pinot grigio,White,,,,4,"orange, bubblegum, jasmine",Dry,Medium Full,Powerful,Fresh,Dark,Clear,2019.0,Amber,Soft
+13016d41-00bd-411c-83f5-2b95691696b7,Chapel Peak - Fusional of Marlborough,White,Sauvignon Blanc,,,4,"mango, acacia, passion-fruit",Medium Sweet,Medium Full,Aromatic,Tart,Dark,Clear,2020.0,Gold,Not Present
+13016d41-00bd-411c-83f5-2b95691696b7,Bourgogne Aligoté,White,Chardonnay,,,4,"banana, cheese",Dry,,Moderate,Smooth,Medium,Clear,2019.0,Straw Yellow,Not Present
+13016d41-00bd-411c-83f5-2b95691696b7,Pinot Grigio,White,Pinot Grigio,Colli Orientali del Friuli,LightWhite,4,"lemon, lemon-peel, forest-floor",Medium Sweet,Light,Moderate,Crisp,Pale,Clear,2021.0,Gold,Not Present
+13016d41-00bd-411c-83f5-2b95691696b7,Sauvignon,White,Sauvignon Blanc,Collio,LightWhite,4,"cat-pee, lemon-peel, orange-peel, wet-gravel",Medium Sweet,,Aromatic,Crisp,Medium,Slight Haze,,Greenish,
+13016d41-00bd-411c-83f5-2b95691696b7,Genesi Vermentino di Gallura Superiore,White,Vermentino,Vermentino di Gallura,LightWhite,3,"slate, hawthorn",Dry,Light,Moderate,Crisp,Medium,Slight Haze,2021.0,Greenish,Not Present
+13016d41-00bd-411c-83f5-2b95691696b7,Bianco,White,Trebbiano,Igt,SweetWhite,3,"grapefruit, sultana, clay, match-box",Bone Dry,Medium Full,Aromatic,Crisp,Medium,Cloudy,2015.0,Amber,
+13016d41-00bd-411c-83f5-2b95691696b7,Cabernet Franc,White,Cabernet Franc,,,3,,Medium Sweet,Full Bodied,Aromatic,Smooth,Medium,Slight Haze,2016.0,Purplish,Dry Tannins
+13016d41-00bd-411c-83f5-2b95691696b7,Malvasia legno,White,Malvasia,Carso,SweetWhite,4,"tobacco, nectarine, passion-fruit, match-box",Dry,Full Bodied,Powerful,Tart,Medium,Slight Haze,,Straw Yellow,
+13016d41-00bd-411c-83f5-2b95691696b7,Cabernet Franc,Red,Cabernet Franc,,,3,"earth, banana, wet-gravel",Dry,Medium Full,Moderate,Tart,Medium,Slight Haze,2018.0,Purplish,Round
+13016d41-00bd-411c-83f5-2b95691696b7,Cabernet,White,Cabernet,,,3,"hay, blueberry",Medium Sweet,Medium Full,Aromatic,Tart,Medium,Cloudy,2017.0,Purplish,Dry Tannins
+13016d41-00bd-411c-83f5-2b95691696b7,Chianti,White,,,,2,"red-plum, sour-cherry",Dry,Medium Full,Moderate,Crisp,Medium,Slight Haze,2018.0,Purplish,Round
+13016d41-00bd-411c-83f5-2b95691696b7,Riesling,White,,,,4,"wet-stone, wet-leaves, petrol",Dry,,Aromatic,Fresh,Pale,Clear,2018.0,Brownish,Not Present
+13016d41-00bd-411c-83f5-2b95691696b7,Bolgheri,Red,,,,3,,Dry,Medium Full,Aromatic,Crisp,Medium,Slight Haze,2018.0,Purplish,Round
+c145de85-6596-46ca-8005-de4b5c325710,Zinfandel,Red,Zinfandel,Napa Valley,MediumRed,4,"grape, red-cherry, black-plum, black-cherry",Dry,Full Bodied,Aromatic,Smooth,Dark,Clear,,,Dry Tannins
+e5b0e77a-ed45-4436-a771-6e01c5782973,Costasera Amarone della Valpolicella Classico Riserva,Red,"Molinara, Oseleta, Corvina, Rondinella",Amarone della Valpolicella Classico,,4,,,Medium Full,,,,,,,
+e5b0e77a-ed45-4436-a771-6e01c5782973,Campofiorin Rosso Veronese,Red,"Rondinella, Molinara, Cabernet Sauvignon, Nebbiolo, Sangiovese, Corvina",Rosso Veronese,,1,,,,,,,,,,
+f146626e-7c67-46a5-8226-79df4a9b8294,Nebbiolo d'Alba,Red,Nebbiolo,Nebbiolo d'Alba,BoldRed,4,"cherry, strawberry, potting-soil, liquorice, earth, tobacco, oak",Bone Dry,Full Bodied,Aromatic,Crisp,Medium,Clear,,Tawny,Dry Tannins
+b57ea79f-3b3a-4301-af1d-ad8883800bce,Santa Julia Tinto Dulce,Red,,Santa Rosa,LightRed,3,"strawberry, cherry, raspberry",Sweet,,Aromatic,Fresh,Medium,,,Garnet,
+b57ea79f-3b3a-4301-af1d-ad8883800bce,Portillo Pinot Noir,Red,Pinot Noir,Uco Valley,LightRed,3,,,,,,,,,,
+ff89d8c1-48a3-49b5-af95-62d0ce9ecf55,Rick boyer chardonnay central coast,White,,,,4,,,,,,Medium,Clear,2019.0,Straw Yellow,
+ff89d8c1-48a3-49b5-af95-62d0ce9ecf55,Broad Run Pinot Noir,Red,Pinot Noir,Kentucky,LightRed,5,,,,,,,,,,
+ff89d8c1-48a3-49b5-af95-62d0ce9ecf55,Grey (Glacier) Cabernet Sauvignon,Red,Cabernet Sauvignon,Maipo Valley,BoldRed,5,,Dry,,Powerful,Smooth,,Clear,,,Round
+ff89d8c1-48a3-49b5-af95-62d0ce9ecf55,Lyric chardonnay 2016,White,,,,5,,,,,,,,2016.0,,
+45a10c93-34ef-4aef-887a-9cd7a4292bec,Vigna Piaggia Brunello di Montalcino,Red,Sangiovese,Brunello di Montalcino,MediumRed,4,"cranberry, quince, fig, violet, pepper, black-pepper",Bone Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2006.0,Ruby,Dry Tannins
+2c4a4dc1-f355-49c4-b243-cf4fb5683e8e,Archineri Etna Rosso,Red,Nerello Mascalese,Etna,,4,,,,Aromatic,Fresh,Medium,Clear,,Purplish,Dry Tannins
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Béchar Fiano di Avellino,White,Fiano,Fiano de Avellino,,4,"pineapple, banana",Bone Dry,Light,Powerful,Fresh,Medium,Clear,,Gold,Round
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Taurasi Vigna Cinque Querce,Red,Aglianico,Taurasi,BoldRed,5,"plum, black-plum, blackberry, black-cherry, liquorice, black-pepper, toast, coffee, leather, marmalade, meaty, tobacco, volcanic-rocks, pepper, tar, cigar, smoke, prune, raisin, sour-cherry, blackcurrant, red-cherry",Bone Dry,Heavy,Powerful,Smooth,Dark,Cloudy,2002.0,Garnet,Round
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Paleo,Red,Cabernet Franc,Toscana,MediumRed,4,"raspberry, red-cherry, blueberry, green-ball-pepper, white-pepper, leather, marmalade, nutmeg, smoke, tobacco, coconut, green-pepper, juniper, eucalyptus",Bone Dry,Medium Full,Powerful,Fresh,Dark,Clear,2009.0,Ruby,Round
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Cannubi Barolo,Red,Nebbiolo,Barolo,BoldRed,5,"redcurrant, cherry, blackberry, date, raisin, leather, tobacco, cigar, meaty, tar, violet",Bone Dry,Full Bodied,Powerful,Fresh,,Slight Haze,,,Dry Tannins
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Greco di Tufo Terre Degli Angeli,White,Greco,Greco di Tufo,,3,"hawthorn, savoury, apple, quince, peach, pineapple, passion-fruit",Bone Dry,Light,Aromatic,Crisp,Medium,Clear,,Straw Yellow,Round
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Kurni,Red,,,,4,"red-cherry, plum, blackberry, blueberry, mulberry, rose, thyme, juniper, chocolate, marmalade, pine, tobacco, meaty, leather, caramel, cherry, raspberry",Dry,Full Bodied,Powerful,Fresh,Dark,Cloudy,2014.0,Ruby,Round
+b0fbc6bd-4b1e-48cd-92f3-f49b7a505941,Terra d'Eclano Aglianico Irpinia,Red,Aglianico,Irpinia,BoldRed,5,"plum, red-cherry, blackberry, black-cherry, sour-cherry, rose, violet, liquorice, black-pepper, toast, chocolate, leather, marmalade, pepper, almond, coconut, nutmeg, cloves",Bone Dry,Full Bodied,Powerful,Crisp,Dark,Clear,2017.0,Purplish,Dry Tannins
+7ce591d6-8b1e-4814-ad93-747f36e4013a,Rosé,Rose,"Cinsault, Shiraz/Syrah, Grenache",Vin de France,Rosé,4,,,,,,,,,,
+7ab11062-c77b-4254-9f58-a3f852c73eb3,Kung Fu Girl Riesling,White,Riesling,Ancient Lakes of Columbia Valley,SweetWhite,3,,,,,,,,,,
+7ab11062-c77b-4254-9f58-a3f852c73eb3,Dos Ladrones,White,"Vermentino, Gewürztraminer, Sauvignon Blanc, Pinot Grigio, Malvasia",Arizona,,4,"pear, apple",Sweet,,Aromatic,Crisp,Pale,Clear,,Gold,Soft
+35bcb30c-a1b8-49c0-85e3-aaa84e30f50d,Rubicon,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot",Stellenbosch,,5,"black-plum, cigar, tobacco, vanilla",Dry,Full Bodied,Aromatic,Smooth,Medium,Clear,2008.0,Garnet,Round
+4ed273f7-1816-4f36-88c7-789125f011c7,Moscato d'Asti,White,Moscato,Moscato d'Asti,Sparkling,5,,Sweet,Medium Full,Aromatic,Smooth,Medium,Cloudy,1980.0,Brownish,Round
+4ed273f7-1816-4f36-88c7-789125f011c7,Moscato d'Asti,White,Moscato,Moscato d'Asti,Sparkling,1,,,,,,Pale,,1980.0,Gold,
+4ed273f7-1816-4f36-88c7-789125f011c7,Billi Billi Shiraz,Red,Shiraz/Syrah,Grampians,BoldRed,5,,,,Aromatic,Crisp,Dark,,,Purplish,
+4ed273f7-1816-4f36-88c7-789125f011c7,Billi Billi Shiraz,Red,Shiraz/Syrah,Grampians,BoldRed,4,,,Light,,,,,,,
+918cd9b7-8057-4106-8f7f-9e9e3a423fb1,Chardonnay,White,,,RichWhite,5,,Medium Sweet,Full Bodied,Aromatic,Smooth,,,2019.0,,Not Present
+918cd9b7-8057-4106-8f7f-9e9e3a423fb1,Cabernet Sauvignon,Red,,,BoldRed,3,,Dry,Medium Full,Low,,,,2018.0,,Round
+918cd9b7-8057-4106-8f7f-9e9e3a423fb1,Tuffeau Vouvray,White,Chenin Blanc,,,4,,Sweet,Medium Full,Low,Smooth,,,2018.0,,Not Present
+918cd9b7-8057-4106-8f7f-9e9e3a423fb1,Albariño,White,Albariño,,,4,,Medium Sweet,Light,,Crisp,,,,,Not Present
+31434f5c-846c-4e06-93d6-193efdeb250c,Strada di Guia 109 Extra Dry,White,Glera (Prosecco),Conegliano-Valdobbiadene Prosecco,Sparkling,5,,,,,,,,,,
+bf82194f-6108-4524-9cef-69c0231ac74b,Nerello mascalese,Red,,,,1,"raspberry, redcurrant, lemon, elderberry",Bone Dry,Light,Moderate,Tart,Dark,Clear,2020.0,Purplish,Round
+f4efa18b-06a5-4417-9c92-8a3dedf8a92a,Wine Club Shiraz,Red,Shiraz/Syrah,Heathcote,BoldRed,5,,,,,,,,,,
+bcc4af0f-7f89-4083-86cb-18b605495683,Bourgogne Pinot Noir,Red,Pinot Noir,Bourgogne,LightRed,4,,Medium Sweet,Medium Full,Moderate,Smooth,Dark,Cloudy,,Garnet,Soft
+3d88fe74-6881-42bd-bb97-d67f2db649d7,Reserve Merlot,Red,Merlot,Central Coast,MediumRed,4,,Medium Sweet,,Aromatic,Smooth,Medium,Clear,,Purplish,Soft
+3d88fe74-6881-42bd-bb97-d67f2db649d7,Dark Horse Shiraz,Red,Shiraz/Syrah,Stellenbosch,BoldRed,2,,Dry,,Low,Tart,,Clear,,,Round
+3d88fe74-6881-42bd-bb97-d67f2db649d7,Nottage Hill Cabernet - Shiraz,Red,"Shiraz/Syrah, Cabernet Sauvignon",South Eastern Australia,BoldRed,3,,Dry,Medium Full,Moderate,Crisp,Dark,Clear,,Purplish,Dry Tannins
+8a5ddd23-7ed8-4ac0-9c5d-12ff3b908053,Malbec,Red,Malbec,Mendoza,BoldRed,3,"blueberry, black-plum, tobacco",Dry,Full Bodied,Moderate,Smooth,Medium,Cloudy,2018.0,Purplish,Dry Tannins
+8a5ddd23-7ed8-4ac0-9c5d-12ff3b908053,Altitud Chardonnay,White,Chardonnay,Tupungato,RichWhite,4,"pineapple, apricot, brioche, butter, vanilla",Dry,Full Bodied,Moderate,Smooth,Medium,Clear,2021.0,Straw Yellow,Not Present
+70c67292-57ce-4012-a939-5e6ddcb499f8,Sauvignon Blanc,White,Sauvignon Blanc,Western Cape,LightWhite,5,grape,Dry,Very Light,Low,Smooth,Medium,Clear,2022.0,Greenish,Not Present
+70c67292-57ce-4012-a939-5e6ddcb499f8,Nero d'Avola Sicilia,Red,"""Nero dAvola""",Terre Siciliane,BoldRed,3,,Bone Dry,Full Bodied,Powerful,Crisp,Medium,Clear,,Purplish,Hard
+70c67292-57ce-4012-a939-5e6ddcb499f8,Gato Negro Cabernet Sauvignon - Merlot,Red,"Cabernet Sauvignon, Merlot",Central Valley,,3,,,Full Bodied,Powerful,Crisp,Dark,Slight Haze,,Purplish,Hard
+5c865810-7a40-4eb4-93c3-970c4d6ce4da,Chardonnay Collio,White,Chardonnay,Collio,RichWhite,4,"mango, pineapple, papaya, peach, vanilla",Bone Dry,Medium Full,Aromatic,Fresh,Pale,Slight Haze,,Straw Yellow,Not Present
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Pigato Riviera Ligure di Ponente,White,Pigato,Riviera Ligure di Ponente,,4,"pear, lime, elderflower",Medium Sweet,Light,Low,Fresh,Medium,Slight Haze,2021.0,Straw Yellow,Soft
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Rosso di Montalcino,Red,Sangiovese,Rosso di Montalcino,MediumRed,3,lilac,Dry,Medium Full,Aromatic,Smooth,Dark,Cloudy,2020.0,Ruby,Dry Tannins
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Vermentino,White,Vermentino,Umbria,LightWhite,4,grape,Sweet,Light,Moderate,Smooth,Pale,Slight Haze,2023.0,Gold,Round
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Cinque Terre,White,"Vermentino, Albarossa, Bosco",Cinque Terre,,4,"pear, honeysuckle",Medium Sweet,Light,Aromatic,Smooth,Pale,Clear,2022.0,Straw Yellow,Soft
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Primitivo Manduria,Red,Primitivo,Primitivo di Manduria,BoldRed,3,"cranberry, kirsch",Dry,Light,Moderate,Crisp,Dark,Slight Haze,2020.0,Purplish,Dry Tannins
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Sicilia Rosé,Rose,"Shiraz/Syrah, ""Nero dAvola""",Terre Siciliane,Rosé,3,"grapefruit, blossom",Sweet,Very Light,Moderate,Fresh,Pale,Clear,2021.0,Salmon,Soft
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Franciacorta Milledì Brut,White,Chardonnay,Franciacorta,Sparkling,4,"apple, almond",Medium Sweet,Light,Low,Fresh,Medium,Clear,2022.0,Straw Yellow,Soft
+838e0d9d-27e9-4f89-9eab-ba2c2f412759,Moscato d'Asti,White,Moscato,Moscato d'Asti,Sparkling,5,"apple, pear",Very Sweet,Very Light,Moderate,Smooth,Pale,Clear,2022.0,Greenish,Not Present
+f8f65c20-a3b3-4a4f-bf54-7acd6e53c877,Valpolicella Classico,Red,"Molinara, Corvina, Rondinella",Valpolicella Classico,,4,"red-cherry, raspberry, red-plum, black-cherry, black-plum, blackcurrant, vanilla, marmalade",Bone Dry,Medium Full,Moderate,Fresh,Medium,Cloudy,2020.0,Ruby,Round
+f8f65c20-a3b3-4a4f-bf54-7acd6e53c877,Oltrepo pavese,White,"Pinot Noir, Chardonnay",Oltrepò Pavese Metodo Classico,LightWhite,3,brioche,Bone Dry,Light,Moderate,Crisp,Medium,Clear,2022.0,Straw Yellow,Not Present
+f7fb310d-87f1-441a-94ab-f526f66b9ec1,'Cuvée des Paladins' Erbaluce di Caluso,White,Erbaluce di Caluso,Erbaluce di Caluso DOCG,Sparkling,5,"grass, bread, raisin",Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Straw Yellow,
+753594e4-9af7-44dd-a5ad-09a776352d7b,Dogtown Vineyard Zinfandel,Red,Zinfandel,Lodi,MediumRed,5,forest-floor,Medium Sweet,Heavy,Aromatic,Fresh,,Slight Haze,,Ruby,Soft
+cec7ccd7-a556-4a79-a333-50619c4e4a9e,Quinta do morgado Branco,White,,,SweetWhite,5,,,,,,,,,,
+675a53a6-ff06-44ad-beea-ddc782c4da96,Il Passito,White,"Sauvignon Blanc, Sémillon",North Coast,Dessert,5,"lemon-peel, orange-peel, pear, peach, honeysuckle, caramel, honey",Very Sweet,Medium Full,Aromatic,Fresh,Dark,Clear,2014.0,Gold,Soft
+f9b653da-6c1b-4390-87c6-f74e42bf0a03,Vinho Verde Branco,White,"Loureiro, Alvarinho",Vinho Verde,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,,Straw Yellow,Soft
+f9b653da-6c1b-4390-87c6-f74e42bf0a03,Vinho Verde Branco,White,"Loureiro, Alvarinho",Vinho Verde,,3,,,Medium Full,,,,,,,
+875e7ce2-5a96-497c-9816-563713e93ca8,Arneis,White,,,,4,peach,Dry,Full Bodied,Powerful,Fresh,Pale,Clear,,Greenish,
+ab01e8ca-2216-4db3-8980-afcd0a03e8d0,Villa Pagnana Casa Vento Chianti,Red,Sangiovese,Chianti,MediumRed,3,"redcurrant, raspberry, cranberry",Bone Dry,Full Bodied,Moderate,Flabby,Medium,Clear,2009.0,Purplish,Dry Tannins
+185e3df6-c35d-429a-b120-1304eb5b7ff4,Vernaccia di Oristano Riserva,White,Vernaccia di Oristano,Vernaccia di Oristano,,5,"apple, plum, orange-peel, olive, raisin, banana, grass, hay, clay, butter, white-pepper",Dry,Light,Aromatic,Smooth,Medium,Slight Haze,2006.0,Brownish,Not Present
+185e3df6-c35d-429a-b120-1304eb5b7ff4,Cabernet sauvignon,Red,,,,5,,,Medium Full,,,,,2016.0,,
+185e3df6-c35d-429a-b120-1304eb5b7ff4,Educated Guess Cabernet Sauvignon,Red,Cabernet Sauvignon,Napa Valley,BoldRed,4,,Medium Sweet,,Powerful,Smooth,Dark,Clear,2018.0,Ruby,Dry Tannins
+5ccd8030-047b-432c-a630-d784ab415756,Weisser Burgunder,White,Burgund,,,3,,,Light,Moderate,Fresh,Medium,Clear,2019.0,Straw Yellow,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay - Frankenweiler,White,Chardonnay,,,3,,Bone Dry,Very Light,Moderate,Crisp,Pale,Clear,2019.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Lemberger Terassenlage,Red,Lemberger,Ochsenbacher Geiersberg,,4,,Dry,Medium Full,Aromatic,Crisp,,Clear,2018.0,,Round
+5ccd8030-047b-432c-a630-d784ab415756,Full of Joy Grauburgunder,White,,,,4,"walnut, bread-dough, brioche, apricot",Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2018.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Maikammer Kirchenstück,White,Riesling,,,3,,,Medium Full,Aromatic,,Medium,Clear,2019.0,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Full of Joy Grauburgunder Unfiltriert,White,Pinot Grigio,,RichWhite,4,,Dry,Full Bodied,Aromatic,Crisp,Pale,Slight Haze,2019.0,Salmon,Round
+5ccd8030-047b-432c-a630-d784ab415756,Valpolicella Ripasso (Classico Superiore),Red,"Sangiovese, Pinot Grigio, Rondinella, Corvinone, Corvina Veronese",Valpolicella Ripasso,,4,,Dry,,Aromatic,Fresh,Dark,Clear,2016.0,Ruby,Round
+5ccd8030-047b-432c-a630-d784ab415756,Theo Minges Chardonnay,White,,,,3,"cranberry, lychee",Bone Dry,Medium Full,Moderate,Fresh,Medium,Clear,2018.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Frühburgunder,Red,,,,3,,Dry,Light,Moderate,Crisp,,Clear,2017.0,Ruby,
+5ccd8030-047b-432c-a630-d784ab415756,Weissburgunder Trocken,White,Weissburgunder,,LightWhite,2,,,Light,Moderate,Fresh,Medium,Clear,2021.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Cabernet Sauvignon Hainfeld,Red,Cabernet Sauvignon,,,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Purplish,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Barbera del Monferrato,Red,,,,3,,,,,,,,2020.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Silvaner,White,Silvaner,,,2,,,Very Light,Low,Crisp,Medium,Clear,2019.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,Grauer Burgunder - Frankenweiler Kellergrube,White,Pinot Grigio,,,3,,Bone Dry,Light,Moderate,Crisp,Medium,Clear,2018.0,Straw Yellow,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay,White,Chardonnay,,,4,,Dry,Light,Aromatic,Crisp,Medium,Clear,2020.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Spätburgunder,Red,Spätburgunder,,,3,,,Medium Full,Moderate,Crisp,Medium,Clear,2016.0,Ruby,Round
+5ccd8030-047b-432c-a630-d784ab415756,Pinot Noir,Red,Pinot Noir,Südtirol - Alto Adige,LightRed,3,"cherry, redcurrant",,Light,Aromatic,Fresh,Pale,Clear,2020.0,Garnet,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Randersacker Sonnenstuhl Silvaner,White,Silvaner,,,4,,,,,,,,2018.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Randersacker Sonnenstuhl Silvaner,White,Silvaner,,,4,"gooseberry, lime",Dry,,Aromatic,Crisp,Medium,Clear,2021.0,Greenish,
+5ccd8030-047b-432c-a630-d784ab415756,Rosé Sundreamer,Rose,"Cabernet Sauvignon, Cabernet Franc, Pinot Noir",,Rosé,4,,Bone Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2022.0,Pink,
+5ccd8030-047b-432c-a630-d784ab415756,Valpolicella Ripasso,Red,Corvina,,,3,,Dry,Medium Full,Moderate,Fresh,,Clear,2017.0,,Round
+5ccd8030-047b-432c-a630-d784ab415756,Il Castelliere Passito Bianco,White,Garganega,Veneto,Dessert,4,,Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2012.0,Gold,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Dettelbach Silvaner,White,Silvaner,,,3,,Dry,Light,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Soave classico,White,,,,3,,Dry,Very Light,Moderate,Crisp,Pale,Clear,2021.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay,White,Chardonnay,,Sparkling,3,,Dry,Medium Full,Aromatic,Crisp,,Clear,,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Haardter Herzog,White,Riesling,,,3,,Medium Sweet,Medium Full,Aromatic,Fresh,Pale,Clear,2020.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Haut-Medoc,Red,,,,3,,Dry,,Aromatic,Fresh,Medium,Clear,2014.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Riesling Kabinett,White,Riesling,,,4,,Dry,Medium Full,Aromatic,Crisp,,Clear,,,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Weissburgunder Kallstadter Steinacker,White,Weissburgunder,,,4,,,,,,Medium,Clear,2020.0,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Grauer Burgunder Muschelkalk,White,Grauburgunder,,,4,"lychee, orange-peel",Bone Dry,,Powerful,Crisp,,Clear,2022.0,,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Barbera d'Asti,Red,Barbera,,,3,"Velvet, prune",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Ruby,Dry Tannins
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay Brut Réserve,White,Chardonnay,,Sparkling,4,,Dry,Medium Full,Aromatic,Fresh,,Clear,,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Baden-Badener Merlot,Red,Merlot,,,4,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2018.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Full of Joy Riesling,White,,,,4,,,,,,,,2017.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,Spätburgunder Rosé,Rose,Spätburgunder,,Rosé,3,,,Medium Full,Aromatic,Tart,Medium,Clear,2022.0,Salmon,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Semonte Alto Valpolicella Ripasso Classico Superiore,Red,"Corvina, Rondinella, Molinara",Valpolicella Ripasso Classico,,3,,Dry,,Moderate,Crisp,Medium,Clear,2016.0,Ruby,Round
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay - Kalkmergel,White,Chardonnay,,,3,,Bone Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Gold,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Sauvignon Blanc,White,,,,3,apple,Bone Dry,Light,Aromatic,Fresh,Pale,Clear,2018.0,Greenish,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Lemberger Alte Reben,Red,Lemberger,,,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2018.0,Garnet,Round
+5ccd8030-047b-432c-a630-d784ab415756,Retzbacher Sauvignon Blanc,White,Sauvignon Blanc,,,4,,,,,,,,2018.0,,
+5ccd8030-047b-432c-a630-d784ab415756,The Society's Exhibition Shiraz,Red,Shiraz/Syrah,,,4,"plum, eucalyptus",Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2017.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Valpolicella Ripasso Classico Superiore Pojega,Red,"Corvina, Rondinella, Molinara, Corvinone",Valpolicella Ripasso Classico,,4,,,,,,,,,,
+5ccd8030-047b-432c-a630-d784ab415756,Cuvée Rot,Red,,,,3,,,Medium Full,Moderate,,Dark,Clear,2018.0,Purplish,
+5ccd8030-047b-432c-a630-d784ab415756,Col di Sasso,Red,"Sangiovese, Shiraz/Syrah",,,3,,Dry,Light,,Fresh,Dark,Clear,2020.0,Garnet,Round
+5ccd8030-047b-432c-a630-d784ab415756,Bardolino Chiaretto,Rose,,,,1,,,,Low,,Pale,Clear,2019.0,Pink,
+5ccd8030-047b-432c-a630-d784ab415756,Vendemmia,White,,,,2,apricot,Medium Sweet,Very Light,Moderate,Smooth,Pale,Clear,2018.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Baden-Badener Spätburgunder,Rose,,,,3,,Dry,,Moderate,Crisp,,Clear,2019.0,,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Rosé,Rose,,,,3,,Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Salmon,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Merlot,Red,Merlot,,,3,,Dry,Heavy,Moderate,Crisp,,Clear,2018.0,,Round
+5ccd8030-047b-432c-a630-d784ab415756,Acinaia,White,,,,2,,Bone Dry,Light,Low,Crisp,Pale,Clear,2019.0,Greenish,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Sauvignon Blanc,White,Sauvignon Blanc,,,4,"melon, pineapple",Dry,Medium Full,Aromatic,Crisp,,Clear,2021.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Bel Colle,Red,,,,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2017.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Pinot Meunier Blanc de Noir Brut Nature,White,Pinot Meunier,,Sparkling,4,,Bone Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2018.0,Brownish,
+5ccd8030-047b-432c-a630-d784ab415756,Frühburgunder,Red,,,,4,,,,,,,,2015.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Amarone della Valpolicella,Red,"Rondinella, Croatina, Corvinone, Corvina Veronese",Amarone della Valpolicella,,2,,Bone Dry,Light,Moderate,Crisp,Medium,Clear,,Garnet,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Amarone della Vapolicella - Campomasua,Red,,,,4,"redcurrant, pine, plum, sour-cherry",Dry,Full Bodied,Aromatic,Fresh,Medium,Clear,2015.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Full of Joy Weissburgunder,White,,,,3,elderflower,Dry,Light,Moderate,Crisp,Medium,Clear,2018.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Spätburgunder,Red,,,,4,,Dry,,Aromatic,Crisp,,Clear,2018.0,Garnet,Round
+5ccd8030-047b-432c-a630-d784ab415756,Blanc de Noir,White,Pinot Noir,,Sparkling,3,,Dry,Medium Full,Moderate,Crisp,Dark,Clear,,Gold,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Bardolino,Red,"Corvina Veronese, Rondinella, Molinara",Bardolino,,3,,,,,,,Clear,2021.0,Salmon,
+5ccd8030-047b-432c-a630-d784ab415756,Pinot Blanc Brut,White,Pinot Blanc,,Sparkling,3,,Bone Dry,Light,Moderate,Crisp,,Clear,,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Tinto Roble,Red,Tinta del Pais,,,3,,,,,,,,2013.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Stil Echt Rosé,Rose,Spätburgunder,,Rosé,3,,,,Moderate,,Medium,Clear,2022.0,Copper,
+5ccd8030-047b-432c-a630-d784ab415756,Lagrein Rosato Trentino,Rose,Lagrein,Trentino,Rosé,3,,Dry,,Moderate,Fresh,Medium,Clear,,Pink,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Pinot Noir Rosé,Rose,Pinot Noir,,Sparkling,3,,Dry,Medium Full,Moderate,Fresh,Pale,Clear,,Pink,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Auxerrois Brut,White,Auxerrois,,Sparkling,4,,,,,,,,,,
+5ccd8030-047b-432c-a630-d784ab415756,Chateau La Canorgue,Red,"Syrah, Grenache (Garnacha), Carignan (Carinena)",,,4,,Dry,Medium Full,Moderate,Crisp,Dark,Slight Haze,2017.0,Garnet,Round
+5ccd8030-047b-432c-a630-d784ab415756,Randersacker Spätburgunder Rosé,Rose,Spätburgunder,,Rosé,3,,Dry,Medium Full,Moderate,Crisp,,Clear,2021.0,Salmon,Round
+5ccd8030-047b-432c-a630-d784ab415756,Randersacker Spätburgunder Rosé,Rose,Spätburgunder,,Rosé,3,,,,Moderate,Crisp,,Clear,2022.0,Copper,
+5ccd8030-047b-432c-a630-d784ab415756,Blauer Wildbacher,Red,Blauer Wildbacher,,MediumRed,2,,Dry,Full Bodied,Aromatic,Smooth,Dark,Clear,2018.0,Purplish,Dry Tannins
+5ccd8030-047b-432c-a630-d784ab415756,Riesling 100,White,,,,3,"peach, gooseberry, Basil",Bone Dry,Light,Aromatic,Crisp,Medium,Clear,2018.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Valpolicella Classico,White,,,,3,,Dry,Light,Moderate,Crisp,Medium,Clear,2019.0,Garnet,Soft
+5ccd8030-047b-432c-a630-d784ab415756,No guns only roses,Rose,"Moscatel, Trollinger",,,3,"hibiscus, kiwi",Medium Sweet,Light,Powerful,Crisp,Pale,Clear,2022.0,Salmon,
+5ccd8030-047b-432c-a630-d784ab415756,Aulerde Riesling,White,Riesling,,,4,"Gasoline, wet-leaves",Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Handwerk Rosé,Rose,Pinot Noir,,,3,,Dry,Light,Moderate,Crisp,Medium,Clear,2021.0,Pink,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Valpolicella Classico,Red,,,,4,,,Medium Full,,,,,2018.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Goldmuskateller,White,Golden Muscat,,,2,,Medium Sweet,,Aromatic,Fresh,,Clear,2018.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Frescaripa Bardolino Classico,Red,"Corvina, Rondinella, Molinara",Bardolino Classico,,3,,Dry,Light,Moderate,Fresh,Pale,,2021.0,Salmon,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Blanc de Noirs,White,Pinot Noir,,Sparkling,3,,Dry,Medium Full,Moderate,Crisp,,Clear,2019.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Kaselar Dominikanerberg,White,Riesling,,Sparkling,3,,Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2015.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Axel Rosė - Gesellenstück,Rose,,,,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2018.0,Copper,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Bacchus,White,,,,2,,,,,,,,2018.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Chardonnay Engelsfelsen,White,,,,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Gold,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Koonunga Hill Shiraz - Cabernet,Red,"Shiraz/Syrah, Cabernet Sauvignon",South Australia,BoldRed,3,,,Medium Full,Aromatic,Fresh,,Clear,2019.0,Ruby,Round
+5ccd8030-047b-432c-a630-d784ab415756,Prosecco Superiore,White,,,,4,,Bone Dry,Light,Aromatic,Crisp,Medium,Clear,,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Saar-Riesling Brut,White,Riesling,,Sparkling,4,,Dry,,Moderate,Crisp,Pale,Clear,,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Grauburgunder Muschelkalk,White,,,,4,,Bone Dry,Medium Full,Aromatic,Fresh,Pale,Clear,2019.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Maikammer Kirchenstück,White,Riesling,,,3,,Dry,,Moderate,Crisp,Medium,Clear,2019.0,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Dettelbach Silvaner,White,,,,3,,Dry,Very Light,Moderate,Crisp,Pale,Clear,2020.0,Greenish,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,tschiel brut nature,White,"Chardonnay, Weissburgunder",,Sparkling,3,,Bone Dry,Light,Moderate,Crisp,Medium,Clear,,Greenish,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,tschiel brut nature,White,"Chardonnay, Weissburgunder",,Sparkling,3,,Bone Dry,Heavy,Moderate,Crisp,,Clear,2020.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Vino Nobile di Montepulciano,Red,,,MediumRed,3,,,,Moderate,,Medium,Clear,2019.0,Garnet,
+5ccd8030-047b-432c-a630-d784ab415756,Limoux,White,,,,3,,,,,,Medium,,2017.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,Côtes du Rhône Cuvée Pierre Perrin,Red,"Shiraz/Syrah, Grenache, Mourvedre",Côtes-du-Rhône,,3,,,,,,Medium,Clear,2018.0,Salmon,
+5ccd8030-047b-432c-a630-d784ab415756,Dveri Pax Blaufränkisch,Red,Blaufränkisch,,,3,,,Full Bodied,Aromatic,,Medium,Clear,2012.0,Purplish,
+5ccd8030-047b-432c-a630-d784ab415756,Dogliani,Red,Dolcetto,Dogliani,MediumRed,2,"Alcohol, redcurrant, red-cherry",Dry,Light,Moderate,Crisp,Medium,Clear,,Purplish,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Weißer Burgunder,White,,,,3,,,,Moderate,,Pale,Clear,2019.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,Riesling Classic,White,,,,3,,Dry,Medium Full,Aromatic,Crisp,,Clear,2020.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,MLV Masseria Li Veli,Red,"Cabernet Sauvignon, Negroamaro",Salento,,3,,,,,,Dark,,2018.0,Garnet,
+5ccd8030-047b-432c-a630-d784ab415756,Rödelseer Schwanleite,White,Pinot Grigio,,LightWhite,3,,Dry,,Moderate,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Scheurebe Gleisweiler,White,Scheurebe,,LightWhite,3,,,,Aromatic,,,,2021.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Rosé vom Löss,Rose,,,,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2020.0,Pink,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Ribolla Gialla,White,,,,4,,Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2019.0,Greenish,
+5ccd8030-047b-432c-a630-d784ab415756,Maikammer Kapellenberg Chardonnay,White,Chardonnay,,RichWhite,4,,,Full Bodied,Aromatic,Crisp,,Clear,2021.0,Gold,
+5ccd8030-047b-432c-a630-d784ab415756,Punt dal crèt,White,Pinot Blanc,,,3,,Dry,Medium Full,Moderate,Crisp,Medium,Clear,2018.0,Greenish,
+5ccd8030-047b-432c-a630-d784ab415756,Mysterious extra brut,White,Pinot Noir,,Sparkling,4,,,Medium Full,Aromatic,Crisp,Medium,,2019.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,LÖSS-LEHM Chardonnay & Weißer Burgunder,White,"Chardonnay, Weissburgunder",,LightWhite,4,"gooseberry, nectarine",Dry,,Moderate,Crisp,,Clear,2021.0,Straw Yellow,
+5ccd8030-047b-432c-a630-d784ab415756,La Moneta Gavi,White,Cortese,,,2,,,,,,,,2018.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Pinot Noir,Red,,,,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2015.0,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Conde de Valdemar Crianza,Red,"Tempranillo, Mazuelo, Cabernet Sauvignon, Cabernet Franc, Merlot",Rioja,,4,"plum, cherry, bread-dough",Dry,Full Bodied,Moderate,Crisp,Dark,Clear,,Purplish,Round
+5ccd8030-047b-432c-a630-d784ab415756,Ingelheimer Frühburgunder,Red,Frühburgunder,,,4,"black-pepper, blackcurrant",Bone Dry,Medium Full,Moderate,Fresh,Medium,Clear,2016.0,Ruby,Soft
+5ccd8030-047b-432c-a630-d784ab415756,Blanc de Noir,White,"Spätburgunder, Sankt Laurent",,,4,,,,,,,,2020.0,,
+5ccd8030-047b-432c-a630-d784ab415756,Charlotte Rosé,Rose,Merlot,,Rosé,4,,Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2022.0,Copper,
+5ccd8030-047b-432c-a630-d784ab415756,Silvaner Sekt-Brut,White,Silvaner,,Sparkling,3,,Dry,Light,Moderate,Crisp,,Clear,,Straw Yellow,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Haardter Herrenletten,White,,,,3,,Dry,Light,Moderate,Crisp,Pale,Clear,2019.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Haardter Herrenletten,White,,,,4,,Dry,Medium Full,Aromatic,Crisp,Dark,Clear,2019.0,Gold,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Weissburgunder,White,,,,4,"Herbal , cheese",Dry,Light,Aromatic,Crisp,Pale,Clear,2018.0,Greenish,Not Present
+5ccd8030-047b-432c-a630-d784ab415756,Cinquenoci,Red,,,,3,"plum, black-cherry",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2016.0,Garnet,Round
+5ccd8030-047b-432c-a630-d784ab415756,J. Neus Rosé,Rose,,,,4,cheese,Bone Dry,Light,Moderate,Crisp,Medium,Clear,2018.0,Salmon,Not Present
+c040419f-0f9d-4452-9400-a375622a291c,Exquise Sec Champagne,White,"Chardonnay, Pinot Noir, Pinot Meunier",Champagne,Sparkling,4,,,,,,,,,,
+1818462e-a882-487f-9818-98faab99b3c4,Steak House Red,Red,Cabernet Sauvignon,Santa Barbara County,BoldRed,3,,Medium Sweet,Medium Full,Aromatic,Fresh,,Cloudy,,Purplish,Round
+e786582d-0deb-4e55-969e-065508ca1138,"Vermentino 2015 ""Campo Maccione""",White,Vermentino,,LightWhite,4,,Dry,Light,Moderate,Fresh,Pale,Clear,2015.0,Straw Yellow,Round
+e786582d-0deb-4e55-969e-065508ca1138,Pinot Noir,Red,Pinot Noir,Central Valley,LightRed,3,red-plum,Medium Sweet,Medium Full,Aromatic,Crisp,Medium,Slight Haze,,Purplish,Dry Tannins
+e786582d-0deb-4e55-969e-065508ca1138,Terrano,Red,Terrano,Carso,,3,,Medium Sweet,,Aromatic,,Dark,Clear,,Purplish,
+8e521c78-d748-475a-9514-a8ae8895eb23,Cabernet Sauvignon - Merlot,Red,"Shiraz/Syrah, Cabernet Sauvignon, Cabernet Franc, Merlot",Western Cape,,4,"blackcurrant, blackberry, black-cherry, vanilla",Dry,Full Bodied,Powerful,Fresh,Dark,Clear,2019.0,Purplish,Dry Tannins
+ec237d07-aabf-47af-a3fa-2b60019d49d7,Just Me,Red,Merlot,Venezia Giulia,MediumRed,4,,,,,,,,,,Dry Tannins
+ec237d07-aabf-47af-a3fa-2b60019d49d7,Barbera,Red,"Arneis, Bonarda, Brachetto, Garganega",Clairette du Languedoc,,4,,Sweet,Full Bodied,Moderate,Smooth,,Slight Haze,,,Dry Tannins
+ec237d07-aabf-47af-a3fa-2b60019d49d7,Brut Rosé (Rose Label) Champagne,Rose,"Chardonnay, Pinot Noir, Pinot Meunier",Champagne,Sparkling,3,"black-plum, blackcurrant, boysenberry",Medium Sweet,Medium Full,Moderate,Fresh,Medium,Slight Haze,,Salmon,Round
+ec237d07-aabf-47af-a3fa-2b60019d49d7,A Charming Pinot,Red,Pinot Noir,California,LightRed,3,"pineapple, melon, papaya, kiwi",Medium Sweet,Medium Full,Aromatic,Fresh,Medium,Slight Haze,,Ruby,Round
+ec237d07-aabf-47af-a3fa-2b60019d49d7,A Charming Pinot,Red,Pinot Noir,California,LightRed,4,,,,,,,,,,
+7cb9aba3-78f1-4ad5-97ca-8bcc29fb021a,Passerina,White,Passerina,Marche,,4,,Medium Sweet,Light,Aromatic,Tart,Medium,Slight Haze,2018.0,Greenish,Not Present
+7cb9aba3-78f1-4ad5-97ca-8bcc29fb021a,Campo Camino Merlot,Red,Merlot,Lison-Pramaggiore,MediumRed,4,raisin,Very Sweet,Medium Full,Aromatic,Crisp,Medium,Cloudy,2017.0,Garnet,Round
+7cb9aba3-78f1-4ad5-97ca-8bcc29fb021a,Aragosta Rosé,Rose,"Carignan, Cannonau, Monica",Alghero,Rosé,4,,,,Aromatic,Smooth,Dark,Slight Haze,,Salmon,Dry Tannins
+7cb9aba3-78f1-4ad5-97ca-8bcc29fb021a,Hora Sexta,Red,Cabernet Sauvignon,Veneto,BoldRed,4,"cherry, red-cherry",Dry,Medium Full,Powerful,Smooth,Dark,Clear,2011.0,Purplish,Dry Tannins
+7cb9aba3-78f1-4ad5-97ca-8bcc29fb021a,Falerio,White,"Trebbiano Abruzzese, Pecorino, Passerina",Falerio,,3,,Dry,Light,Moderate,Crisp,Pale,Clear,2017.0,Gold,Not Present
+518f9753-12b1-4987-b651-38944fc33d07,Chardonnay,White,,,,4,,Dry,Light,Low,Crisp,,Clear,2019.0,,Dry Tannins
+dcd16582-14d2-4e00-a024-9b5886d29b29,tonel 14,Red,Malbec,,,3,,,,,,,,,,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Torrontés dulce 2021,White,Torrontés,,SweetWhite,4,,Sweet,Light,Moderate,Fresh,Pale,Clear,2021.0,Straw Yellow,Soft
+dcd16582-14d2-4e00-a024-9b5886d29b29,Contracara Reserva 2020,Red,"Malbec, Cabernet Sauvignon",,,4,,,,,,,,,,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Las perdices,Red,Malbec,,MediumRed,5,,,,,,Medium,Clear,2022.0,Purplish,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Finca La sofia,Red,Malbec,,,3,,,,,,,,2021.0,,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Novecento raices,Red,Malbec,,BoldRed,4,,Dry,Medium Full,Moderate,Smooth,Dark,Slight Haze,2021.0,Purplish,Soft
+dcd16582-14d2-4e00-a024-9b5886d29b29,Alma Mora Reserva Malbec,Red,Malbec,San Juan,BoldRed,5,,,,,,,,2022.0,,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Los cardos Dulce. Edición especial 2021,White,Sauvignon Blanc,,SweetWhite,4,,,,,,Pale,Clear,2021.0,Greenish,
+dcd16582-14d2-4e00-a024-9b5886d29b29,Cordero con piel de lobo,Red,Malbec,,BoldRed,4,,,,Moderate,,Dark,Slight Haze,2022.0,Purplish,Round
+c30006c8-a677-4c8f-9c52-c8f00b48fea4,Falanghina Del Sannio,White,Falanghina,Sannio,,3,,Bone Dry,Light,Moderate,Crisp,Pale,Clear,,Greenish,Not Present
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Chardonnay,White,Chardonnay,Stellenbosch,RichWhite,4,"banana, apricot, honey",Sweet,Medium Full,Moderate,Smooth,Pale,Clear,2022.0,Gold,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Inspirational Batch 10,Red,Merlot,,MediumRed,4,"blackcurrant, prune, black-tea, liquorice, tar",Medium Sweet,Medium Full,Aromatic,Smooth,Dark,Cloudy,2020.0,Purplish,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Spier Cabernet Sauvignon,Red,Cabernet Sauvignon,,MediumRed,4,"oak, blackcurrant, potting-soil",Dry,Full Bodied,Aromatic,Smooth,Dark,Cloudy,2021.0,Ruby,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Big Easy Red,Red,"Mourvedre, Cinsault, Shiraz/Syrah, Cabernet Sauvignon, Grenache, Viognier",Western Cape,,4,"green-ball-pepper, blackcurrant, black-plum",Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2020.0,Purplish,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Grand Rouge,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot",Stellenbosch,,4,"blackcurrant, mulberry, black-pepper, oak",Medium Sweet,Medium Full,Moderate,Smooth,Medium,Clear,2019.0,Purplish,Round
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,The Weather Station Sauvignon Blanc,White,Sauvignon Blanc,Stellenbosch,LightWhite,4,"kiwi, apple, gooseberry, lychee",Sweet,Medium Full,Aromatic,Fresh,Medium,Clear,2022.0,Greenish,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,The Hassar Grill Anniversary Blend,Red,"Shiraz/Syrah, Cabernet Sauvignon, Pinotage",,BoldRed,3,"vanilla, nectarine, cranberry, cinnamon",Dry,Full Bodied,Moderate,Fresh,Medium,Slight Haze,2022.0,Garnet,Round
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Fairbridge,Red,Pinotage,,BoldRed,2,"black-cherry, cinnamon, petrol, potting-soil",Medium Sweet,Full Bodied,Moderate,Smooth,Medium,Cloudy,2021.0,Purplish,Soft
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Spier Secret,Rose,,,Sparkling,3,"strawberry, jasmine",Medium Sweet,Light,Aromatic,Fresh,Medium,Clear,2022.0,Salmon,Dry Tannins
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,The First Lady Cabernet Sauvignon,Red,Cabernet Sauvignon,Stellenbosch,BoldRed,4,"black-plum, sour-cherry, prune",Dry,Heavy,Aromatic,Tart,Medium,Slight Haze,2021.0,Purplish,Round
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Rouge,Red,"Shiraz/Syrah, Cabernet Sauvignon, Cabernet Franc, Merlot",Stellenbosch,,4,"pepper, blackcurrant, wet-stone",Dry,Medium Full,Aromatic,Smooth,Pale,Slight Haze,2020.0,Garnet,Round
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Cabernet Sauvignon,Red,Cabernet Sauvignon,Stellenbosch,BoldRed,4,"wet-stone, clay, gravel, cigar, tobacco, blackcurrant, mulberry",Dry,Full Bodied,Powerful,Fresh,Medium,Cloudy,2017.0,Purplish,Dry Tannins
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Classique,Red,"Merlot, Cabernet Sauvignon",,BoldRed,4,"green-ball-pepper, tobacco, liquorice",Medium Sweet,Full Bodied,Aromatic,Smooth,Dark,Cloudy,2019.0,Garnet,Dry Tannins
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,The Old Man's Blend,Red,"Merlot, Cabernet Sauvignon, Shiraz/Syrah",,BoldRed,3,"plum, mulberry, green-ball-pepper, black-pepper",Medium Sweet,Full Bodied,Moderate,Crisp,Dark,Clear,2021.0,Ruby,Dry Tannins
+a0ef6b50-093e-4ae1-8e3c-58a2a17d2bb8,Pinot Noir,Red,Pinot Noir,Franschhoek,LightRed,2,"lychee, cranberry, strawberry",Medium Sweet,Very Light,Low,Fresh,Pale,Clear,2022.0,Ruby,Soft
+a3b393ad-38d5-4c5a-b814-5fec18a1fa9d,Saint-joseph,White,,,,3,,Dry,Light,Aromatic,Crisp,Pale,Slight Haze,,Straw Yellow,Dry Tannins
+a3b393ad-38d5-4c5a-b814-5fec18a1fa9d,New Wine,White,Cabernet Blanc,,,4,,Medium Sweet,Full Bodied,Aromatic,Smooth,Medium,Cloudy,,Straw Yellow,Round
+a3b393ad-38d5-4c5a-b814-5fec18a1fa9d,Opera Viva,Red,"Cabernet Sauvignon, Merlot, Terrano, Pinot Nero",Friuli-Venezia Giulia,,5,"apple, plum, lemon, black-plum, persimmon, papaya, fruit-cake, rose, grass, black-tea, potting-soil",Dry,Medium Full,Moderate,Fresh,Medium,Cloudy,,Garnet,Dry Tannins
+568ad4cd-9050-48da-b3b2-ed29d405e477,Pinot Nero,Red,Pinot Nero,Südtirol - Alto Adige,LightRed,4,,Medium Sweet,Medium Full,Aromatic,Fresh,Pale,Slight Haze,2019.0,Ruby,Round
+014e4ed1-6f8b-4b25-917d-c167a2acca17,New Wine,Rose,,,,1,,Medium Sweet,Full Bodied,Moderate,Smooth,Pale,Slight Haze,,Pink,Dry Tannins
+014e4ed1-6f8b-4b25-917d-c167a2acca17,New Wine,Rose,,,,4,,Very Sweet,Full Bodied,Powerful,Fresh,Medium,Clear,,Copper,Soft
+7c63488a-31b5-4389-9526-d4c6030652aa,Rubesco Rosso di Torgiano,Red,"Sangiovese, Canaiolo Nero",Torgiano,,5,,Medium Sweet,Medium Full,Aromatic,Fresh,Dark,Slight Haze,2019.0,Ruby,Dry Tannins
+41375cb6-321d-410a-bd0b-d0afed9f0417,Est! Est!! Est!!! Di Montefiascone Secco,White,"Malvasia, Trebbiano",Est! Est!! Est!!! di Montefiascone,,3,"rocks, pineapple, melon, apple",Bone Dry,Light,Moderate,Crisp,Pale,Clear,2021.0,Greenish,Soft
+41375cb6-321d-410a-bd0b-d0afed9f0417,Rosso piceno tenuta coccci grifoni,Red,"Sangiovese, Montepulciano",,MediumRed,4,"cherry, strawberry, red-plum, black-cherry, orange",Dry,Medium Full,Aromatic,Tart,Dark,Cloudy,,Ruby,Round
+2f3064a7-12af-43d8-90fd-6c4555830fcc,Nuovo Vino,Red,,,,5,,,Heavy,Powerful,Tart,,Slight Haze,,,Dry Tannins
+1b02b02d-e152-4b2e-a276-56fcc4069250,Riesling,White,Riesling,Alsace,SweetWhite,5,"lemon, pineapple, hawthorn, eucalyptus, thyme, kerosene, flint",Bone Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2015.0,Straw Yellow,Not Present
+00324bc3-0b35-4051-bc6d-9c258a4252c2,Ettore germano riesling,White,Riesling,,,5,,,,Moderate,,Medium,Clear,,Straw Yellow,
+2bb306b3-5e47-40b1-ab05-eee62cafb1b8,Lyric Pinot Noir,Red,Pinot Noir,Santa Barbara County,LightRed,4,,,,Moderate,Crisp,Medium,Cloudy,,Garnet,
+b877db20-6422-46b2-9dca-38a361d3e260,Capolemole Bianco,White,Bellone,Lazio,,3,,,,Aromatic,,,Slight Haze,,,
+47edd867-4e96-411a-b436-970e5f750b03,Pinot Grigio,White,,,,2,,Dry,Light,Moderate,Fresh,Pale,Clear,2016.0,Greenish,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Mendoza Pinot Grigio,White,Pinot Grigio,,,3,"Kruidig, Abrikoos, Gedroogd fruit",Medium Sweet,Full Bodied,Aromatic,Fresh,Pale,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Pommard,Red,,,,5,"Krwupelhout, Tabak, Rood fruit, Geconcentreerd",Dry,Medium Full,Aromatic,Fresh,,Slight Haze,2010.0,,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Rheinhessen Kabinett Riesling,White,Riesling,,,1,Champagne,Medium Sweet,Light,Low,Crisp,,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Meursault 'Les Grands Charrons',White,,,,4,hazelnut,Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2015.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Fleurie Grand Pre,Red,Gamay,Fleurie,,2,"Yogo yogo aardbeien , Cassis, Laurier",Bone Dry,Light,Aromatic,Crisp,Dark,Clear,2018.0,Ruby,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Les Pierrelles Crozes-Hermitage,Red,Shiraz/Syrah,Crozes-Hermitage,BoldRed,3,"Sigarendoos, Zaagsel, Geconcentreerde zwarte bes, Aards, Stal, Leer",Dry,Full Bodied,Aromatic,Fresh,Dark,Clear,2015.0,Purplish,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Le Relais de Patache d'Aux,Red,"Cabernet Sauvignon, Cabernet Franc, Merlot, Petit Verdot",Médoc,,3,"Danio bosbessen, Beetje zoute drop",Dry,Medium Full,Aromatic,Smooth,Pale,Clear,2013.0,Garnet,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Valle de Maipo Carmenere,Red,Carmenere,,,2,"Zure kersen, cedar",Dry,Medium Full,Aromatic,Crisp,Medium,Clear,2017.0,Garnet,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Chateau Bouscasse,White,"Petit Courbu, Petit Manseng",Pacherenc du Vic-Bilh,,4,"Jonagold, Geconcentreerd, Honing , petrol",Dry,Medium Full,Aromatic,Smooth,Medium,Clear,2014.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Théophile Brut Champagne,White,"Chardonnay, Pinot Noir, Pinot Meunier",Champagne,Sparkling,3,"Wit fruit, Kruisbes, grapefruit, apple, Brood",Dry,Light,Moderate,Fresh,Pale,Clear,,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Les 4 Terres,Red,"Grenache, Shiraz/Syrah, Mourvedre",Côtes du Rhône,,3,"Zwart fruit, Leer, Cassis, Thijm, Zwarte peper",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2016.0,Ruby,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Pinot blanc,White,,,,3,"Champagnekleur, lychee, Passievrucht, Iets petroleum achtigs",Dry,Light,Moderate,Crisp,Pale,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Groot Constantia,White,Sauvignon Blanc,Constantia,,2,"Citrus, passion-fruit, apple",Dry,Light,Aromatic,Fresh,Pale,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Valle de Casablanca Sauvignon,White,Sauvignon Blanc,,,2,apple,Dry,Very Light,Aromatic,Tart,Pale,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Chenin Blanc Secateurs,White,Chenin Blanc,Swartland,SweetWhite,3,"Citrus, Honing",Medium Sweet,Light,Moderate,Fresh,Pale,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Le Grand Saumur,White,,,,3,"Honing, Perzik",Dry,Light,Moderate,Crisp,Pale,Clear,2016.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Mendoza Malbec selected vines,Red,Malbec,,,3,"Merlot ish, Kersen, Aards, Gedroogd rood fruit",Bone Dry,Medium Full,Moderate,Crisp,Dark,Slight Haze,2016.0,Garnet,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Clos la Laterne,White,Chenin Blanc,Vouvray,,4,"grapefruit, pepper, Bloemig, Wit fruit",Dry,Medium Full,Moderate,Smooth,Pale,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Ammonite,White,,Vouvray,,5,"Peer, Zuurtjes snoep",Medium Sweet,Medium Full,Aromatic,Fresh,Pale,Clear,2017.0,Gold,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Australia Shiraz,Red,Shiraz,,,3,"Rood fruit, Stal, Hout, chocolate, Gedweee rook",Dry,Medium Full,Moderate,Crisp,Dark,Clear,2016.0,Ruby,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Senorino de Baldios,Red,,,,4,"Specerijen, Zoethout, Kers",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2009.0,Garnet,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Yellow Label ,White,Chardonnay,,,2,"Honing, Gedroogd fruit, Houtgebruik vanille",Dry,Light,Aromatic,Crisp,Medium,Clear,2017.0,Greenish,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Mercurey 'Clos les Bussières' ,White,Chardonnay,Mercurey,RichWhite,4,,Dry,Full Bodied,Low,Smooth,Dark,,2019.0,Straw Yellow,
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Pinot gris,White,,,,3,"lychee, Mandarijn, Amandelspijs, Zoete meloen, pear, Best bescheiden intensiteit",Dry,Light,Moderate,Crisp,Medium,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Mendoza Chardonnay,White,Chardonnay,,,2,Peer,Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Beaune 1er cru 'Clos les Aigrots',White,Chardonnay,Beaune,RichWhite,5,,Dry,Medium Full,Powerful,Smooth,Medium,Clear,2015.0,Gold,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Lodi California,Red,Zinfandel,,,2,"Kruidig, Suiker, vanilla, Jam, Sigarendoos, Houtgebruik",Medium Sweet,Full Bodied,Aromatic,Fresh,Dark,Clear,2017.0,Garnet,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Cirus Madiran,Red,,Madiran,,2,"chocolate, Zwart fruit, Specerijen",Dry,Medium Full,Moderate,Fresh,Medium,Slight Haze,2012.0,Garnet,Dry Tannins
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Petit Chablis,White,Chardonnay,,,3,"Groente, Zwavel, Citrus, Onrijpe peer, Petrol?",Bone Dry,Medium Full,Moderate,Crisp,Pale,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Portillo Malbec,Red,Malbec,Tunuyán,BoldRed,4,"Laurier, Tabak, Pruim, Vijg, Braam",Dry,Light,Moderate,Fresh,Medium,Clear,2018.0,Purplish,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,La Banate vieille vignes,Red,"Shiraz/Syrah, Grenache",Côtes du Rhône Villages,,4,"Bessen, Cassis",Dry,Medium Full,Moderate,Fresh,Medium,Clear,2014.0,Purplish,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Macon-Charnay Clos de Tournons,White,Chardonnay,Vin de Borgougne,,3,"Ontwikkelt pas na walsen, Eerst scherpe Citroen, vanilla, Gedroogd geel fruit, Beetje houtgebruik",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2018.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Anjou Blanc,White,Chenin Blanc,Anjou,,3,"Alcohol, Amandelbitter, Doorgekookte asperge",Dry,Medium Full,Low,Crisp,Medium,Clear,2017.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,LFE900,Red,"Shiraz, Carmenere",Colchagua Valley single vinyard,,4,"Pure chocola, Laurier, Specerijen, Bramen",Dry,Full Bodied,Moderate,Fresh,Medium,Clear,2014.0,Purplish,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Quintessence Montagny 1er Cru,White,Chardonnay,Montagny 1er cru,,4,"Bloemig, Geel fruit, Amandelen geroosterd",Dry,Medium Full,Aromatic,Fresh,Medium,Clear,2015.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Marlborough,White,Sauvignon Blanc,,,4,"lychee, passion-fruit",Dry,Medium Full,Powerful,Fresh,Medium,Clear,2018.0,Greenish,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Valle Central Merlot,Red,Merlot,,,2,"Hero Cassis, Leer, Sigarenkistje, Natte hond",Dry,Medium Full,Moderate,Crisp,Dark,Clear,2018.0,Ruby,Soft
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Les Fossiles Riesling,White,Riesling,Alsace,SweetWhite,4,"lime, grapefruit, blossom, biscuit",Dry,Medium Full,Aromatic,Crisp,Pale,Clear,2020.0,Straw Yellow,Not Present
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Beyerskloof Western Cape,Red,Pinotage,,,2,"Stal, Nat kreupelhout, Zure braam, Vijg, Kers",Dry,Medium Full,Moderate,Crisp,Medium,Clear,2018.0,Ruby,Round
+7f6dede6-b8b5-4bb6-a1ca-ae58c79c0ea7,Valle del Limari Reserva Pinot Noir,Red,Pinot Noir,,,4,"Cassis, Kruidig, Sexy zoet kersje ",Dry,Medium Full,Moderate,Crisp,Dark,Slight Haze,2015.0,Garnet,Round
+be0e69e3-30d5-4e21-b62f-05402fbfcd5a,Château Haut Bommes Sauternes,White,"Sauvignon Blanc, Sémillon",Sauternes,Dessert,4,"orange, lemon, green-tea",Dry,Light,Aromatic,Crisp,,Slight Haze,2016.0,Gold,
+be0e69e3-30d5-4e21-b62f-05402fbfcd5a,Closeburn Chardonnay,White,Chardonnay,Central Otago,RichWhite,4,,,,,,,Slight Haze,,Gold,
+be0e69e3-30d5-4e21-b62f-05402fbfcd5a,Piceno Bacchus,Red,"Pinot Noir, Sangiovese, Montepulciano",Rosso Piceno,,5,lemon-peel,,,,,,,,,
