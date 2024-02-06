@@ -18,7 +18,6 @@ Importing the required libraries
 #Libraries
 import pandas as pd
 from surprise import Reader, Dataset, KNNBasic, KNNWithMeans, KNNWithZScore, SVD, SVDpp, NMF, SlopeOne, CoClustering, accuracy, PredictionImpossible
-from surprise.model_selection import train_test_split
 from surprise.model_selection import KFold
 from random import shuffle
 from collections import defaultdict
@@ -69,6 +68,8 @@ class DynamicAlgo:
         for trainset_fold, testset_fold in kf.split(self.data):
             #Train and test algorithm.
             self.algorithm.fit(trainset_fold)
+            # to solve the trainset problem
+            self.trainset = self.algorithm.trainset 
             train_prediction = self.algorithm.test(trainset_fold.build_testset())
             prediction = self.algorithm.test(testset_fold)
 
@@ -119,16 +120,22 @@ class DynamicAlgo:
             The name of the item.
         """
         return self.algorithm.trainset.to_raw_iid(iid)
-    
+
     def get_neighbors_uid(self, user_id, k=10):
-        neighbor_ids = self.algorithm.get_neighbors(user_id, k=10)
-        neighbor_names = [self.get_user_name(uid) for uid in neighbor_ids]
-        return neighbor_names
-    
+        if isinstance(self.algorithm, (KNNBasic, KNNWithMeans, KNNWithZScore)):
+            neighbor_ids = self.algorithm.get_neighbors(user_id, k=10)
+            neighbor_names = [self.get_user_name(uid) for uid in neighbor_ids]
+            return neighbor_names
+        else:
+            raise NotImplementedError("get_neighbors is not implemented for this algorithm")
+
     def get_neighbors_iid(self, item_id, k=10):
-        neighbor_ids = self.algorithm.get_neighbors(item_id, k=10)
-        neighbor_names = [self.get_item_name(iid) for iid in neighbor_ids]
-        return neighbor_names
+        if isinstance(self.algorithm, (KNNBasic, KNNWithMeans, KNNWithZScore)):
+            neighbor_ids = self.algorithm.get_neighbors(item_id, k=10)
+            neighbor_names = [self.get_item_name(iid) for iid in neighbor_ids]
+            return neighbor_names
+        else:
+            raise NotImplementedError("get_neighbors is not implemented for this algorithm")
         
     def get_top_n_for_user(self, predictions,user_id, n=10):
         """Return the top-N recommendation for a user from a set of predictions.
@@ -183,7 +190,7 @@ class DynamicAlgo:
         top_n[item_id] = item_ratings[:n]
 
         return top_n[item_id]
-
+    
     def estimated(self, u, i):
         if not (self.trainset.knows_user(u) and self.trainset.knows_item(i)):
             raise PredictionImpossible("User and/or item is unknown.")
@@ -305,13 +312,15 @@ class DynamicAlgo:
             recalls[uid] = n_rel_and_rec_k / n_rel if n_rel != 0 else 0
         return precisions, recalls
     
-    def process_algorithm(algo, data, dataset, metrics_df):
+    def process_algorithm(algo, data):
         print(f"algorithm: {algo['algorithm_class']}")
         algorithms_instance = DynamicAlgo(**algo)
         algorithms_instance.create_reader(data)
         predictions = algorithms_instance.fit()
         algorithms_instance.get_accuracy(predictions)
+        return algorithms_instance, predictions
 
+    def get_metrics(algo, algorithms_instance, predictions, dataset, metrics_df=None):
         # metrics
         metrics = algorithms_instance.get_accuracy(predictions)
         metrics['Model'] = algo['algorithm_class'].__name__.split('.')[-1]
@@ -325,8 +334,9 @@ class DynamicAlgo:
             metrics['Optimizer'] = algo['bsl_options']['method']
         metrics['DataSet'] = dataset
         # Append the dictionary to the existing DataFrame
-        return pd.concat([metrics_df, pd.DataFrame(metrics, index=[0])], ignore_index=True)
-
+        metrics_df = pd.concat([metrics_df, pd.DataFrame(metrics, index=[0])], ignore_index=True)
+        return metrics_df
+    
     
 if __name__ == "__main__":
     import warnings
@@ -366,8 +376,9 @@ if __name__ == "__main__":
                         for k in [5, 10]:
                             algo = {'algorithm_class': algorithm_class, 'k': k, 'sim_options': {'name': sim,'user_based': user_based}, 
                                     'bsl_options':{'method': bls, 'learning_rate': 0.05, 'n_epochs':60, 'reg_u': 12 , 'reg_i': 5}}
-                            metrics_df = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df)
-
+                            algorithms_instance, predictions = DynamicAlgo.process_algorithm(algo, data)
+                            metrics_df = DynamicAlgo.get_metrics(algo, algorithms_instance, predictions, dataset, metrics_df)
+                            # metrics_df = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df)
         #save the dataframe
         metrics_df.to_csv('/home/bbruno/all_here/python course/vinnie/data/cleaned_data/metrics_df_knn.csv', index=False)
         print(metrics_df)
@@ -381,10 +392,14 @@ if __name__ == "__main__":
             if algorithm_class == SVD or algorithm_class == NMF:
                 for biased in [True, False]:
                     algo = {'algorithm_class': algorithm_class, 'biased': biased}
-                    metrics_df2 = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df2)
+                    algorithms_instance, predictions = DynamicAlgo.process_algorithm(algo, data)
+                    metrics_df2 = DynamicAlgo.get_metrics(algo, algorithms_instance, predictions, dataset, metrics_df2)
+                    # metrics_df2 = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df2)
             else: #iterate over the non-biased algorithms
                 algo = {'algorithm_class': algorithm_class, 'biased': False}
-                metrics_df2 = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df2)
+                algorithms_instance, predictions = DynamicAlgo.process_algorithm(algo, data)
+                metrics_df2 = DynamicAlgo.get_metrics(algo, algorithms_instance, predictions, dataset, metrics_df2)
+                # metrics_df2 = DynamicAlgo.process_algorithm(algo, data, dataset, metrics_df2)
 
         #save the dataframe
         metrics_df2.to_csv('/home/bbruno/all_here/python course/vinnie/data/cleaned_data/metrics_df_others.csv', index=False)
